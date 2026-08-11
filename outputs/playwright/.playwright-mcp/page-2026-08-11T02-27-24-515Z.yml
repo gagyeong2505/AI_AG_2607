@@ -1,0 +1,873 @@
+- generic [ref=f16e2]:
+  - link "본문 바로가기" [ref=f16e3] [cursor=pointer]:
+    - /url: "#ct"
+  - banner [ref=f16e4]:
+    - generic [ref=f16e5]:
+      - generic [ref=f16e8]:
+        - generic [ref=f16e9]:
+          - link "NAVER" [ref=f16e11] [cursor=pointer]:
+            - /url: https://m.naver.com/
+          - generic [ref=f16e13]:
+            - heading [level=1] [ref=f16e14]:
+              - link "선택됨 뉴스" [ref=f16e15] [cursor=pointer]:
+                - /url: https://m.news.naver.com
+            - link "엔터" [ref=f16e18] [cursor=pointer]:
+              - /url: https://m.entertain.naver.com
+            - link "스포츠" [ref=f16e21] [cursor=pointer]:
+              - /url: https://m.sports.naver.com
+            - link "프리미엄" [ref=f16e24] [cursor=pointer]:
+              - /url: https://contents.premium.naver.com
+        - link "검색" [ref=f16e28] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f16e32]:
+        - tablist [ref=f16e33]:
+          - tab "언론사별" [ref=f16e34] [cursor=pointer]
+          - tab "정치" [ref=f16e36] [cursor=pointer]
+          - tab "경제" [ref=f16e38] [cursor=pointer]
+          - tab "사회" [ref=f16e40] [cursor=pointer]
+          - tab "생활/문화" [ref=f16e42] [cursor=pointer]
+          - tab "IT/과학" [selected] [ref=f16e44] [cursor=pointer]
+          - tab "세계" [ref=f16e46] [cursor=pointer]
+          - tab "랭킹" [ref=f16e48] [cursor=pointer]
+          - tab "신문보기" [ref=f16e50] [cursor=pointer]
+          - tab "오피니언" [ref=f16e52] [cursor=pointer]
+          - tab "TV" [ref=f16e54] [cursor=pointer]
+          - tab "팩트체크" [ref=f16e56] [cursor=pointer]
+          - tab "알고리즘 안내" [ref=f16e58] [cursor=pointer]
+          - tab "정정보도 모음" [ref=f16e60] [cursor=pointer]
+        - link "MY" [ref=f16e63] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+  - generic [ref=f16e66]:
+    - main [ref=f16e67]:
+      - generic [ref=f16e68]:
+        - generic [ref=f16e69]:
+          - generic [ref=f16e70]:
+            - link "조선비즈 조선비즈" [ref=f16e71] [cursor=pointer]:
+              - /url: http://biz.chosun.com/
+              - img "조선비즈" [ref=f16e73]
+              - generic [ref=f16e74]: 조선비즈
+            - button "구독" [ref=f16e76] [cursor=pointer]
+            - button "PICK 안내" [ref=f16e78] [cursor=pointer]:
+              - generic [ref=f16e79]: PICK
+              - generic [ref=f16e80]: 안내
+          - heading "[사이언스샷] 개는 인간의 두려움, 슬픔까지 구분한다" [level=2] [ref=f16e82]
+          - generic [ref=f16e83]:
+            - generic [ref=f16e84]:
+              - img "이영완 기자" [ref=f16e86]
+              - generic [ref=f16e87]:
+                - link [ref=f16e89] [cursor=pointer]:
+                  - /url: https://media.naver.com/journalist/366/78194
+                  - emphasis [ref=f16e90]: 이영완 기자
+                - generic [ref=f16e91]:
+                  - generic [ref=f16e93]:
+                    - generic [ref=f16e94]:
+                      - emphasis [ref=f16e95]: 입력
+                      - generic [ref=f16e96]: 2026.08.11. 오전 9:23
+                    - generic [ref=f16e97]:
+                      - emphasis [ref=f16e98]: 수정
+                      - generic [ref=f16e99]: 2026.08.11. 오전 9:43
+                  - link "기사원문" [ref=f16e100] [cursor=pointer]:
+                    - /url: https://biz.chosun.com/science-chosun/science/2026/08/11/J3PVVEHWCFBJJP2DX7FMG5U6R4/?utm_source=naver&utm_medium=original&utm_campaign=biz
+            - generic [ref=f16e101]:
+              - link "댓글 반응" [ref=f16e105] [cursor=pointer]:
+                - /url: /mnews/article/comment/366/0001185450
+                - text: 댓글
+                - generic [ref=f16e106]: 반응
+              - generic [ref=f16e107]:
+                - button "텍스트 음성 변환 서비스 사용하기" [ref=f16e109] [cursor=pointer]
+                - link "글자 크기 변경하기" [ref=f16e112] [cursor=pointer]:
+                  - /url: "#"
+                - link "SNS 보내기" [ref=f16e115] [cursor=pointer]:
+                  - /url: "#"
+                - link "인쇄하기" [ref=f16e119] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=f16e121]:
+          - article [ref=f16e123]:
+            - generic [ref=f16e124]: 다양한 표정 사진 보여주며 뇌를 fMRI로 촬영행복한 모습에 오른쪽 측두엽, 꼬리핵 반응부정적 표정 달리 처리, 공포와 분노·슬픔 구분
+            - generic [ref=f16e125]:
+              - 'img "반려견들은 fMRI 촬영 중 행복, 분노, 두려움, 슬픔을 표현하는 인간의 얼굴 이미지를 봤다. 이때 뇌 활동을 측정해 개들이 얼굴에 나타난 감정을 구별하는 능력을 확인했다./오스트리아 빈대학더 보기출처: Laura" [ref=f16e128]'
+              - emphasis [ref=f16e129]: "반려견들은 fMRI 촬영 중 행복, 분노, 두려움, 슬픔을 표현하는 인간의 얼굴 이미지를 봤다. 이때 뇌 활동을 측정해 개들이 얼굴에 나타난 감정을 구별하는 능력을 확인했다./오스트리아 빈대학더 보기출처: Laura V. Cuaya"
+            - text: 개는 같이 사는 사람의 감정을 이해하는 동물이다. 단순히 기분이 좋은지, 나쁜지 아는 정도가 아니다. 부정적인 감정의 종류까지 구분한다. 과학자들이 사람의 감정에 따라 개의 뇌가 어떻게 반응하는지 처음으로 확인했다.오스트리아 빈대학 심리학과의 라울 에르난데스-페레즈(Raúl Hernández-Pérez) 교수 연구진은 “반려견들은 미소를 뇌의 특정 영역에서 처리하고, 부정적 표정도 종류별로 구분하는 것으로 나타났다”고 10일(현지 시각) 국제 학술지 ‘아이사이언스’에 발표했다.앞서 연구에서 개들이 인간의 표정을 구별할 수 있다는 사실이 밝혀졌지만, 대부분 긍정적이거나 부정적인 표정만 시험했다. 개들이 다양한 유형의 행복한 표정이나 불행한 표정을 구별할 수 있는지 여부는 명확하지 않았다.
+            - generic [ref=f16e130]: 긍정적 표정은 보상 회로에서 반응
+            - text: 연구진은 반려견의 뇌를 기능적 자기공명영상(fMRI)으로 촬영했다. 뇌에서 특정 영역이 작동하면 그곳으로 피가 몰린다. fMRI는 해당 영역을 마치 불이 켜진 것처럼 보여준다. fMRI를 쓰면 사람 표정에 개가 반응하는 것을 뇌 차원에서 확인할 수 있다는 의미다.개들은 fMRI 장치 안에서 여러 가지 표정의 사람 사진을 봤다. 첫 번째 실험에서는 개 8마리에게 낯선 사람이 행복한 표정을 짓거나 중립적인 표정이 담긴 사진을 번갈아 보여주고 뇌 활동을 fMRI로 촬영했다. 행복한 얼굴을 보면 개의 뇌에서 오른쪽 측두엽과 꼬리핵이 활성화됐다.귀와 관자놀이 부근의 측두엽은 정보를 처리하고 기억하며 감정을 조절하는 영역이다. 대뇌 깊은 곳에 있는 꼬리핵은 보상 회로와 연관돼 있다. 논문 공동 교신 저자인 로라 쿠아야(Laura Cuaya) 박사는 “이 영역이 반응하는 것은 개가 긍정적인 무언가를 처리하고 있음을 시사한다”고 설명했다.두 번째 실험에서는 개 12마리에게 행복과 분노, 공포, 슬픔을 표현하는 사람들의 사진을 보여주고 뇌 전체에서 일어나는 반응을 인공지능(AI)으로 분석했다. 개의 뇌는 행복한 표정을 부정적 표정 3가지와 60.9~69.8% 정확도로 구별했다. 역시 행복한 표정은 오른쪽 측두엽과 꼬리핵 네트워크에서 반응했다.영국 노팅엄 트렌트대의 브리짓 월러(Bridget Waller) 교수는 “미소는 인간이 가장 흔히 사용하는 표정이며 사회적 상호작용에 필수적이기 때문에, 개들이 인간에 길들여지면서 이를 다른 표정과 구별할 수 있는 능력을 발달시켰다는 설명은 타당하다”고 말했다.
+            - generic [ref=f16e132]:
+              - img "fMRI로 확인한 개의 인간 표정 인식./자료 iScienc, 챗GPT 생성 이미지" [ref=f16e135]
+              - emphasis [ref=f16e136]: fMRI로 확인한 개의 인간 표정 인식./자료 iScienc, 챗GPT 생성 이미지
+            - generic [ref=f16e137]: 부정적 감정의 종류까지 구분
+            - text: "놀랍게도 개들은 두려움에 찬 표정과 화가 나거나 슬픈 표정을 구분하는 것으로 나타났다. 뇌의 특정 영역만 봐서는 그런 차이를 알 수 없었지만, AI가 전체적인 뇌 활동 형태를 분석하자 구별됐다. 에르난데스 교수는 “서로 다른 부정적 표정이 서로 다른 유형의 위협을 나타내기 때문에 서로 다른 반응을 유발할 수 있다”고 말했다.연구진은 공포감이 사람 얼굴에서 개가 인식할 정도로 두드러지는 표정을 짓게 할 가능성이 있다고 추정했다. 실제로 앞서 연구에서 개가 공포 표정과 중립 표정이 담긴 얼굴 사진을 볼 때 코 부위를 집중적으로 관찰하는 것으로 나타났다. 개가 인간처럼 공포하는 감정 범주를 인식했다기보다, 두려워하는 얼굴에 담긴 시각, 행동 신호가 개에게 상대적으로 더 주의를 끌었을 가능성이 있다.반면 슬픔과 분노는 뇌 전체 활동에서 서로 뚜렷하게 구분되지 않았다. 연구진은 개가 분노와 슬픔을 구분하기에 얼굴만으로는 정보가 부족했다고 추정했다. 앞서 연구에서 개가 인간의 감정을 판단할 때 얼굴보다 몸을 더 관찰하는 것으로 나타났다. 이번처럼 얼굴만 봐서는 슬픈지, 화가 났는지 구별하기 어렵다는 말이다.이번 연구는 개의 뇌가 단순히 좋고 나쁜 표정만 구별하는 게 아니라, 같은 부정적 표정 중에서도 특히 공포를 분노·슬픔과 달리 처리한다는 사실을 fMRI와 AI 기계 학습으로 처음 확인했다. 다만 표본이 적고, 품종도 대부분 보더 콜리였다는 한계가 있다. 그럼에도 이번 연구는 실용적 의미를 갖고 있다. 쿠아야 박사는 “개를 훈련시킬 때 행복한 표정을 지으면 학습 과정에 도움이 될 수 있을 것”이라고 밝혔다.참고 자료iScience(2026), DOI: https://doi.org/10.1016/j.isci.2026.116900"
+          - paragraph [ref=f16e140]:
+            - generic [ref=f16e141]: 이영완 기자 ywlee@chosunbiz.com
+          - paragraph [ref=f16e144]: Copyright ⓒ 조선비즈. All rights reserved. 무단 전재 및 재배포 금지.
+          - link [ref=f16e146] [cursor=pointer]:
+            - /url: "#"
+            - text: 이 기사는 언론사에서
+            - emphasis [ref=f16e147]: IT
+            - text: 섹션으로 분류했습니다.
+          - generic [ref=f16e149]:
+            - heading "기자 프로필" [level=4] [ref=f16e150]
+            - generic [ref=f16e154]:
+              - generic [ref=f16e157]:
+                - generic [ref=f16e158]:
+                  - link [ref=f16e159] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/366/78194
+                    - img "이영완 기자" [ref=f16e161]
+                  - generic [ref=f16e162]:
+                    - link "이영완 기자":
+                      - /url: https://media.naver.com/journalist/366/78194
+                      - emphasis [ref=f16e165] [cursor=pointer]: 이영완 기자
+                    - generic [ref=f16e166]: 조선비즈
+                - link "구독" [ref=f16e168] [cursor=pointer]:
+                  - /url: "#"
+              - list [ref=f16e171]:
+                - listitem [ref=f16e172]:
+                  - link "[뉴테크] 미세 플라스틱 꼼짝 마, 자연이 가르쳐준 청소 그물" [ref=f16e173] [cursor=pointer]:
+                    - /url: /mnews/article/366/0001184579?type=journalists
+                - listitem [ref=f16e174]:
+                  - link "[사이언스카페] 다윈이 옳았다, 150년 전 예측한 식충식물 확인" [ref=f16e175] [cursor=pointer]:
+                    - /url: /mnews/article/366/0001184336?type=journalists
+          - generic [ref=f16e178]:
+            - link [ref=f16e179] [cursor=pointer]:
+              - /url: "#"
+              - img "조선비즈" [ref=f16e182]
+              - generic [ref=f16e183]:
+                - paragraph [ref=f16e184]: 구독
+                - paragraph [ref=f16e185]:
+                  - generic [ref=f16e186]:
+                    - strong [ref=f16e187]: 조선비즈 구독하고
+                    - text: 메인에서 바로 만나보세요!
+            - link "언론사홈" [ref=f16e188] [cursor=pointer]:
+              - /url: https://media.naver.com/press/366
+          - generic [ref=f16e189]:
+            - heading [level=3] [ref=f16e190]:
+              - link "조선비즈" [ref=f16e191] [cursor=pointer]:
+                - /url: http://biz.chosun.com/
+              - text: 주요뉴스
+              - generic [ref=f16e193]:
+                - text: 해당 언론사에서 선정하며
+                - emphasis [ref=f16e194]: 언론사(아웃링크)
+                - text: 로 이동합니다.
+            - list [ref=f16e195]:
+              - listitem [ref=f16e196]:
+                - link "12년차 직원 잘 키워놨더니… \"삼성 갈게요\" 업계는 한탄" [ref=f16e197] [cursor=pointer]:
+                  - /url: https://biz.chosun.com/it-science/ict/2026/08/11/GE72UZHUR5HHJHNUNVUFZX7D7M/?utm_source=naver&utm_medium=headline&utm_campaign=biz
+              - listitem [ref=f16e198]:
+                - link "\"SK하이닉스 실망했다\"잘 나가다 주가 추락하는 이유" [ref=f16e199] [cursor=pointer]:
+                  - /url: https://biz.chosun.com/stock/stock_general/2026/08/11/VN4QRCKNRRBMPGEVQY3RUIWNHI/?utm_source=naver&utm_medium=headline&utm_campaign=biz
+              - listitem [ref=f16e200]:
+                - link "당장 갚을 빚 2380억인데…\"나스닥 간다, 3년만 봐달라\"" [ref=f16e201] [cursor=pointer]:
+                  - /url: https://biz.chosun.com/stock/market_trend/2026/08/11/Q2ISDNAKZZCJFABRG7FAWNS7MA/?utm_source=naver&utm_medium=headline&utm_campaign=biz
+              - listitem [ref=f16e202]:
+                - link "괴물로 오인해 주민에게 총격… 영화 호프, 진짜 일어났다면?" [ref=f16e203] [cursor=pointer]:
+                  - /url: https://biz.chosun.com/topics/law_firm/2026/08/11/YUT6Z5QCJBGBTFLKNNRG3R7ZVY/?utm_source=naver&utm_medium=headline&utm_campaign=biz
+              - listitem [ref=f16e204]:
+                - link "\"또 불 날까봐, 차 빼주세요\"억울하다는 전기차 차주들" [ref=f16e205] [cursor=pointer]:
+                  - /url: https://biz.chosun.com/real_estate/real_estate_general/2026/08/11/EJKL6GIPSJG7BLCN6RMUGP4RF4/?utm_source=naver&utm_medium=headline&utm_campaign=biz
+          - list [ref=f16e207]:
+            - listitem [ref=f16e208]:
+              - button [ref=f16e209] [cursor=pointer]
+              - link "\"지나친 자신감은 독\" 8월 10일 월요일 운세" [ref=f16e211] [cursor=pointer]:
+                - /url: https://biz.chosun.com/culture/culture_general/2026/08/09/IXG7NPLMMRFTVJVBUSKA5LUCPI/
+            - listitem [ref=f16e212]:
+              - button [ref=f16e213] [cursor=pointer]
+              - link "191만리터 화학물질이… 평택 화재, 주불은 잡았다" [ref=f16e215] [cursor=pointer]:
+                - /url: https://biz.chosun.com/topics/topics_social/2026/08/11/S7CNRMWLDBA6JELZC7W4SXIRYI/
+          - generic [ref=f16e216]:
+            - heading [level=2] [ref=f16e218]:
+              - emphasis [ref=f16e219]: 조선비즈
+              - text: 언론사가 직접 선정한 이슈
+            - generic [ref=f16e220]:
+              - list [ref=f16e223]:
+                - listitem [ref=f16e224]:
+                  - link "이슈 민주당 전당대회 정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다” 정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다”" [ref=f16e225] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/366/2893
+                    - generic [ref=f16e226]:
+                      - generic [ref=f16e227]: 이슈
+                      - strong [ref=f16e228]: 민주당 전당대회
+                    - generic [ref=f16e229]:
+                      - emphasis [ref=f16e231]: 정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다”
+                      - img "정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다”" [ref=f16e233]
+                - listitem [ref=f16e234]:
+                  - link "이슈 변동성 커진 증시 코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축 코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축" [ref=f16e235] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/366/2377
+                    - generic [ref=f16e236]:
+                      - generic [ref=f16e237]: 이슈
+                      - strong [ref=f16e238]: 변동성 커진 증시
+                    - generic [ref=f16e239]:
+                      - emphasis [ref=f16e241]: 코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축
+                      - img "코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축" [ref=f16e243]
+                - listitem [ref=f16e244]:
+                  - link "이슈 美·이란 전쟁 트럼프 “호르무즈 기뢰 모두 제거… 美 해군이 해협 통제” 트럼프 “호르무즈 기뢰 모두 제거… 美 해군이 해협 통제”" [ref=f16e245] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/366/2340
+                    - generic [ref=f16e246]:
+                      - generic [ref=f16e247]: 이슈
+                      - strong [ref=f16e248]: 美·이란 전쟁
+                    - generic [ref=f16e249]:
+                      - emphasis [ref=f16e251]: 트럼프 “호르무즈 기뢰 모두 제거… 美 해군이 해협 통제”
+                      - img "트럼프 “호르무즈 기뢰 모두 제거… 美 해군이 해협 통제”" [ref=f16e253]
+                - listitem [ref=f16e254]:
+                  - link "이슈 부동산 대책 이관옥 싱가포르국립대 교수 “고가주택 누진 과세는 부유세에 가까워” 이관옥 싱가포르국립대 교수 “고가주택 누진 과세는 부유세에 가까워”" [ref=f16e255] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/366/1903
+                    - generic [ref=f16e256]:
+                      - generic [ref=f16e257]: 이슈
+                      - strong [ref=f16e258]: 부동산 대책
+                    - generic [ref=f16e259]:
+                      - emphasis [ref=f16e261]: 이관옥 싱가포르국립대 교수 “고가주택 누진 과세는 부유세에 가까워”
+                      - img "이관옥 싱가포르국립대 교수 “고가주택 누진 과세는 부유세에 가까워”" [ref=f16e263]
+              - button "다음" [ref=f16e264] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic:
+                - iframe
+          - generic [ref=f16e266]:
+            - generic [ref=f16e267]:
+              - strong [ref=f16e268]: 이 기사를 추천합니다
+              - button "기사 추천 안내" [ref=f16e269] [cursor=pointer]
+            - generic [ref=f16e270]:
+              - menu:
+                - menuitem "쏠쏠정보 0":
+                  - button "쏠쏠정보 0"
+                - menuitem "흥미진진 0":
+                  - button "흥미진진 0"
+                - menuitem "공감백배 0":
+                  - button "공감백배 0"
+                - menuitem "분석탁월 0":
+                  - button "분석탁월 0"
+                - menuitem "후속강추 0":
+                  - button "후속강추 0"
+      - generic [ref=f16e271]:
+        - generic [ref=f16e272]:
+          - generic [ref=f16e273]:
+            - generic [ref=f16e274]:
+              - generic [ref=f16e276]:
+                - heading [level=2] [ref=f16e278]:
+                  - emphasis [ref=f16e279]: 조선비즈
+                  - text: 많이 본 뉴스
+                - text: 오전 10시~11시까지 집계한 결과입니다.
+              - list [ref=f16e280]:
+                - listitem [ref=f16e281]:
+                  - link "1위 “학대 아닙니다”…반려견에 ‘양파망’ 씌운 견주들, 이유는?" [ref=f16e282] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185449?ntype=RANKING
+                    - generic [ref=f16e283]: 1위
+                    - generic [ref=f16e287]: “학대 아닙니다”…반려견에 ‘양파망’ 씌운 견주들, 이유는?
+                - listitem [ref=f16e290]:
+                  - link "2위 “세금 늘기 전 팔자”… 압구정에 최고가보다 10억 낮은 매물 등장" [ref=f16e291] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185479?ntype=RANKING
+                    - generic [ref=f16e292]: 2위
+                    - generic [ref=f16e296]: “세금 늘기 전 팔자”… 압구정에 최고가보다 10억 낮은 매물 등장
+                - listitem [ref=f16e299]:
+                  - link "3위 “하니 비자정보 누가 넘겼나”…경찰, 어도어 유출 의혹 본격 수사" [ref=f16e300] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185477?ntype=RANKING
+                    - generic [ref=f16e301]: 3위
+                    - generic [ref=f16e305]: “하니 비자정보 누가 넘겼나”…경찰, 어도어 유출 의혹 본격 수사
+                - listitem [ref=f16e308]:
+                  - link "4위 ‘국가소방동원령’ 평택 위험물 저장시설, 2700평 국내 최대 규모" [ref=f16e309] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185409?ntype=RANKING
+                    - generic [ref=f16e310]: 4위
+                    - generic [ref=f16e314]: ‘국가소방동원령’ 평택 위험물 저장시설, 2700평 국내 최대 규모
+                - listitem [ref=f16e317]:
+                  - link "5위 “잠깐 떴다 지는 주도주”... 韓 증시 발목 잡는 ‘푼돈 배당’" [ref=f16e318] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185391?ntype=RANKING
+                    - generic [ref=f16e319]: 5위
+                    - generic [ref=f16e323]: “잠깐 떴다 지는 주도주”... 韓 증시 발목 잡는 ‘푼돈 배당’
+                - listitem [ref=f16e326]:
+                  - link "6위 “코스피 반등 이미 시작됐다…V자 아닌 ‘√자형’ 될 것”" [ref=f16e327] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/366/0001185408?ntype=RANKING
+                    - generic [ref=f16e328]: 6위
+                    - generic [ref=f16e332]: “코스피 반등 이미 시작됐다…V자 아닌 ‘√자형’ 될 것”
+              - link "랭킹 뉴스 더보기" [ref=f16e336] [cursor=pointer]:
+                - /url: https://media.naver.com/press/366/ranking
+            - generic [ref=f16e338]:
+              - heading [level=2] [ref=f16e342]:
+                - emphasis [ref=f16e343]: 조선비즈
+                - text: 클립
+              - list [ref=f16e344]:
+                - listitem [ref=f16e345]:
+                  - link "홍명보 전 감독 법카 사용내역 한 장 요약 홍명보 전 감독 법카 사용내역 한 장 요약" [ref=f16e346] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=0A8E0D1872F385B53B8629717E6F14F6A6FA&serviceType=NEWS&recType=NEWS&recId=366_162881_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "홍명보 전 감독 법카 사용내역 한 장 요약" [ref=f16e349]
+                    - generic [ref=f16e351]: 홍명보 전 감독 법카 사용내역 한 장 요약
+                - listitem [ref=f16e354]:
+                  - link "최근 LVMH보다 잘 나간다는 브랜드 최근 LVMH보다 잘 나간다는 브랜드" [ref=f16e355] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=22B770AB1B907E2716BCAF6B015B284BD9BD&serviceType=NEWS&recType=NEWS&recId=366_163276_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "최근 LVMH보다 잘 나간다는 브랜드" [ref=f16e358]
+                    - generic [ref=f16e360]: 최근 LVMH보다 잘 나간다는 브랜드
+                - listitem [ref=f16e363]:
+                  - link "노르웨이산 고등어 밀어낸 K-고등어의 위엄 노르웨이산 고등어 밀어낸 K-고등어의 위엄" [ref=f16e364] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=A4D79DEB6EA4150AEFFFE02F448C29271F60&serviceType=NEWS&recType=NEWS&recId=366_162716_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "노르웨이산 고등어 밀어낸 K-고등어의 위엄" [ref=f16e367]
+                    - generic [ref=f16e369]: 노르웨이산 고등어 밀어낸 K-고등어의 위엄
+                - listitem [ref=f16e372]:
+                  - link "최근 심각하다고 난리난 경기도 재정 상황 최근 심각하다고 난리난 경기도 재정 상황" [ref=f16e373] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=4525F840ED256E8C4C1EB1B943DB31A9A2C7&serviceType=NEWS&recType=NEWS&recId=366_164336_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "최근 심각하다고 난리난 경기도 재정 상황" [ref=f16e376]
+                    - generic [ref=f16e378]: 최근 심각하다고 난리난 경기도 재정 상황
+          - generic [ref=f16e382]:
+            - generic [ref=f16e383]:
+              - generic [ref=f16e385]:
+                - heading "이슈 NOW" [level=2] [ref=f16e386]
+                - button "안내" [ref=f16e387] [cursor=pointer]
+              - link "내 구독 이슈" [ref=f16e390] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/issueSetting
+            - generic [ref=f16e391]:
+              - tablist [ref=f16e394]:
+                - tab "이재명" [selected] [ref=f16e395] [cursor=pointer]
+                - tab "코스피" [ref=f16e396] [cursor=pointer]
+                - tab "김건희" [ref=f16e397] [cursor=pointer]
+                - tab "폭염" [ref=f16e398] [cursor=pointer]
+                - tab "선관위" [ref=f16e399] [cursor=pointer]
+                - tab "AI" [ref=f16e400] [cursor=pointer]
+                - tab "내란" [ref=f16e401] [cursor=pointer]
+                - tab "지방선거" [ref=f16e402] [cursor=pointer]
+                - tab "이재명대통령" [ref=f16e403] [cursor=pointer]
+                - tab "관세" [ref=f16e404] [cursor=pointer]
+              - button "다음" [ref=f16e405] [cursor=pointer]
+            - tabpanel [ref=f16e407]:
+              - generic [ref=f16e408]:
+                - link "# 이재명" [ref=f16e409] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/tag/5
+                  - generic [ref=f16e410]: "#"
+                  - heading "이재명" [level=4] [ref=f16e411]
+                - generic [ref=f16e412]:
+                  - generic [ref=f16e413]: 27개 언론사
+                  - generic [ref=f16e414]: 51,798개 기사
+              - list [ref=f16e415]:
+                - listitem [ref=f16e416]:
+                  - generic [ref=f16e417]:
+                    - generic [ref=f16e418]:
+                      - link "이재명 정부" [ref=f16e419] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/016/857
+                        - strong [ref=f16e421]: 이재명 정부
+                      - button "구독" [ref=f16e422] [cursor=pointer]
+                    - link "[속보] 李대통령 “노봉법 쟁의 대상 규정 없단 비판 있더라…세부 사항 정해야”" [ref=f16e424] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/016/0002682206?iid=857
+                - listitem [ref=f16e427]:
+                  - generic [ref=f16e428]:
+                    - generic [ref=f16e429]:
+                      - link "이재명 정부" [ref=f16e430] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/469/1190
+                        - strong [ref=f16e432]: 이재명 정부
+                      - button "구독" [ref=f16e433] [cursor=pointer]
+                    - link "한병도 \"메가프로젝트 성공 위해 관련 법령 재개정 속도낼 것\"" [ref=f16e435] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/469/0000947321?iid=1190
+                - listitem [ref=f16e438]:
+                  - generic [ref=f16e439]:
+                    - generic [ref=f16e440]:
+                      - link "이재명 정부" [ref=f16e441] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/079/1127
+                        - strong [ref=f16e443]: 이재명 정부
+                      - button "구독" [ref=f16e444] [cursor=pointer]
+                    - link "李대통령 \"세종시, 국토균형발전 상징…임기 내 세종 집무실\"" [ref=f16e446] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/079/0004177451?iid=1127
+          - generic [ref=f16e449]:
+            - generic [ref=f16e452]:
+              - heading "함께 볼만한 기자" [level=2] [ref=f16e453]
+              - button "안내" [ref=f16e454] [cursor=pointer]
+            - list [ref=f16e456]:
+              - listitem [ref=f16e457]:
+                - link "과기정통부, AI·로봇 ‘자율실험실’ 산학연 협력체계 구축 과기정통부, AI·로봇 ‘자율실험실’ 산학연 협력체계 구축" [ref=f16e458] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185467?type=journalists
+                  - img "과기정통부, AI·로봇 ‘자율실험실’ 산학연 협력체계 구축" [ref=f16e461]
+                  - generic [ref=f16e462]: 과기정통부, AI·로봇 ‘자율실험실’ 산학연 협력체계 구축
+                - generic [ref=f16e465]:
+                  - link "홍아름 기자 홍아름 기자" [ref=f16e466] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/366/78822
+                    - img "홍아름 기자" [ref=f16e468]
+                    - generic [ref=f16e469]: 홍아름 기자
+                  - button "구독" [ref=f16e470] [cursor=pointer]
+              - listitem [ref=f16e472]:
+                - link "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동 네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동" [ref=f16e473] [cursor=pointer]:
+                  - /url: /mnews/article/293/0000088785?type=journalists
+                  - img "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동" [ref=f16e476]
+                  - generic [ref=f16e477]: 네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동
+                - generic [ref=f16e480]:
+                  - link "권용삼 기자 권용삼 기자" [ref=f16e481] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/293/81511
+                    - img "권용삼 기자" [ref=f16e483]
+                    - generic [ref=f16e484]: 권용삼 기자
+                  - button "구독" [ref=f16e485] [cursor=pointer]
+              - listitem [ref=f16e487]:
+                - link "LGU+, ISEC 2026 참가...‘통합 보안 포트폴리오’ 공개 LGU+, ISEC 2026 참가...‘통합 보안 포트폴리오’ 공개" [ref=f16e488] [cursor=pointer]:
+                  - /url: /mnews/article/011/0004650494?type=journalists
+                  - img "LGU+, ISEC 2026 참가...‘통합 보안 포트폴리오’ 공개" [ref=f16e491]
+                  - generic [ref=f16e492]: LGU+, ISEC 2026 참가...‘통합 보안 포트폴리오’ 공개
+                - generic [ref=f16e495]:
+                  - link "김기혁 기자 김기혁 기자" [ref=f16e496] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/011/55479
+                    - img "김기혁 기자" [ref=f16e498]
+                    - generic [ref=f16e499]: 김기혁 기자
+                  - button "구독" [ref=f16e500] [cursor=pointer]
+              - listitem [ref=f16e502]:
+                - link "컴투스 신작 '제우스' 26일 정식 오픈···\"모두를 위한 게임 철학 담았다\" 컴투스 신작 '제우스' 26일 정식 오픈···\"모두를 위한 게임 철학 담았다\"" [ref=f16e503] [cursor=pointer]:
+                  - /url: /mnews/article/018/0006346960?type=journalists
+                  - img "컴투스 신작 '제우스' 26일 정식 오픈···\"모두를 위한 게임 철학 담았다\"" [ref=f16e506]
+                  - generic [ref=f16e507]: 컴투스 신작 '제우스' 26일 정식 오픈···"모두를 위한 게임 철학 담았다"
+                - generic [ref=f16e510]:
+                  - link "강민구 기자 강민구 기자" [ref=f16e511] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/018/73380
+                    - img "강민구 기자" [ref=f16e513]
+                    - generic [ref=f16e514]: 강민구 기자
+                  - button "구독" [ref=f16e515] [cursor=pointer]
+              - listitem [ref=f16e517]:
+                - link "원정출산 과거 일이라 괜찮다?…앞으론 입국 거부될 수도 원정출산 과거 일이라 괜찮다?…앞으론 입국 거부될 수도" [ref=f16e518] [cursor=pointer]:
+                  - /url: /mnews/article/665/0000007919?type=journalists
+                  - img "원정출산 과거 일이라 괜찮다?…앞으론 입국 거부될 수도" [ref=f16e521]
+                  - generic [ref=f16e522]: 원정출산 과거 일이라 괜찮다?…앞으론 입국 거부될 수도
+                - generic [ref=f16e525]:
+                  - link "장규석 기자 장규석 기자" [ref=f16e526] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/665/83400
+                    - img "장규석 기자" [ref=f16e528]
+                    - generic [ref=f16e529]: 장규석 기자
+                  - button "구독" [ref=f16e530] [cursor=pointer]
+              - listitem [ref=f16e532]:
+                - link "\"오늘도 수고한 나에게\"…카톡 선물하기 거래액 20%는 '내돈내산' \"오늘도 수고한 나에게\"…카톡 선물하기 거래액 20%는 '내돈내산'" [ref=f16e533] [cursor=pointer]:
+                  - /url: /mnews/article/008/0005398275?type=journalists
+                  - img "\"오늘도 수고한 나에게\"…카톡 선물하기 거래액 20%는 '내돈내산'" [ref=f16e536]
+                  - generic [ref=f16e537]: "\"오늘도 수고한 나에게\"…카톡 선물하기 거래액 20%는 '내돈내산'"
+                - generic [ref=f16e540]:
+                  - link "김평화 기자 김평화 기자" [ref=f16e541] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/008/31414
+                    - img "김평화 기자" [ref=f16e543]
+                    - generic [ref=f16e544]: 김평화 기자
+                  - button "구독" [ref=f16e545] [cursor=pointer]
+          - generic [ref=f16e547]:
+            - generic [ref=f16e550]:
+              - heading "함께 볼만한 뉴스" [level=2] [ref=f16e551]
+              - button "안내" [ref=f16e552] [cursor=pointer]
+            - list [ref=f16e554]:
+              - listitem [ref=f16e555]:
+                - link "AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장 조선일보" [ref=f16e556] [cursor=pointer]:
+                  - /url: /mnews/article/023/0003992297
+                  - generic [ref=f16e557]:
+                    - generic [ref=f16e558]: AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장
+                    - generic [ref=f16e560]: 조선일보
+              - listitem [ref=f16e562]:
+                - link "\"200만원 넘는 폰 깨부수지 마세요\"…삼성의 자신감 '갤폴드8' 속살 공개 머니투데이" [ref=f16e563] [cursor=pointer]:
+                  - /url: /mnews/article/008/0005398145
+                  - generic [ref=f16e564]:
+                    - generic [ref=f16e565]: "\"200만원 넘는 폰 깨부수지 마세요\"…삼성의 자신감 '갤폴드8' 속살 공개"
+                    - generic [ref=f16e567]: 머니투데이
+              - listitem [ref=f16e569]:
+                - link "‘인재 블랙홀’ 된 삼성·SK의 나비효과… 팹리스 핵심 인력 줄이탈 조선비즈" [ref=f16e570] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185386
+                  - generic [ref=f16e571]:
+                    - generic [ref=f16e572]: ‘인재 블랙홀’ 된 삼성·SK의 나비효과… 팹리스 핵심 인력 줄이탈
+                    - generic [ref=f16e574]: 조선비즈
+              - listitem [ref=f16e576]:
+                - link "\"폭염에 일하는 것도 서러운데\"…더위 노출 많을수록 빨리 늙는다 아시아경제" [ref=f16e577] [cursor=pointer]:
+                  - /url: /mnews/article/277/0005801428
+                  - generic [ref=f16e578]:
+                    - generic [ref=f16e579]: "\"폭염에 일하는 것도 서러운데\"…더위 노출 많을수록 빨리 늙는다"
+                    - generic [ref=f16e581]: 아시아경제
+          - list [ref=f16e584]:
+            - listitem [ref=f16e585]:
+              - link "“200억원 쏟아붓고” 천하의 전지현도 쓴맛…극장 내리기도 전에 OTT행, 난리더니 이달 말 결론 헤럴드경제 헤럴드경제" [ref=f16e586] [cursor=pointer]:
+                - /url: /mnews/article/016/0002681931
+                - generic [ref=f16e589]:
+                  - generic [ref=f16e590]: “200억원 쏟아붓고” 천하의 전지현도 쓴맛…극장 내리기도 전에 OTT행, 난리더니 이달 말 결론
+                  - generic [ref=f16e592]:
+                    - img "헤럴드경제" [ref=f16e594]
+                    - generic [ref=f16e595]: 헤럴드경제
+            - listitem [ref=f16e596]:
+              - link "39% 빠진 삼성전자, 지금이 비중확대 적기…미래에셋 \"HBM·주주환원으로 재평가\" 파이낸셜뉴스 파이낸셜뉴스" [ref=f16e597] [cursor=pointer]:
+                - /url: /mnews/article/014/0005559761
+                - generic [ref=f16e600]:
+                  - generic [ref=f16e601]: 39% 빠진 삼성전자, 지금이 비중확대 적기…미래에셋 "HBM·주주환원으로 재평가"
+                  - generic [ref=f16e603]:
+                    - img "파이낸셜뉴스" [ref=f16e605]
+                    - generic [ref=f16e606]: 파이낸셜뉴스
+            - listitem [ref=f16e607]:
+              - link "[단독]\"100장 25만원에 팝니다\"…롯데百이 VIP ‘에메랄드 쇼핑백’ 없앤 이유 이코노미스트 이코노미스트" [ref=f16e608] [cursor=pointer]:
+                - /url: /mnews/article/243/0000101464
+                - generic [ref=f16e611]:
+                  - generic [ref=f16e612]: "[단독]\"100장 25만원에 팝니다\"…롯데百이 VIP ‘에메랄드 쇼핑백’ 없앤 이유"
+                  - generic [ref=f16e614]:
+                    - img "이코노미스트" [ref=f16e616]
+                    - generic [ref=f16e617]: 이코노미스트
+          - list [ref=f16e619]:
+            - listitem [ref=f16e620]:
+              - link "‘시력이 얼마나 좋아질 지 감도 안 오네’···지상 초정밀 촬영 ‘신개념 인공위성’ 내년에 뜬다 경향신문" [ref=f16e621] [cursor=pointer]:
+                - /url: /mnews/article/032/0003463459
+                - generic [ref=f16e622]:
+                  - generic [ref=f16e623]: ‘시력이 얼마나 좋아질 지 감도 안 오네’···지상 초정밀 촬영 ‘신개념 인공위성’ 내년에 뜬다
+                  - generic [ref=f16e625]: 경향신문
+            - listitem [ref=f16e627]:
+              - link "\"춤은 안 보고 몸만 찍었다\" 매년 100만명 찾는데…'불쾌한 카메라'로 얼룩진 日축제 아시아경제" [ref=f16e628] [cursor=pointer]:
+                - /url: /mnews/article/277/0005801264
+                - generic [ref=f16e629]:
+                  - generic [ref=f16e630]: "\"춤은 안 보고 몸만 찍었다\" 매년 100만명 찾는데…'불쾌한 카메라'로 얼룩진 日축제"
+                  - generic [ref=f16e632]: 아시아경제
+            - listitem [ref=f16e634]:
+              - link "국방부 \"'반도체 부지' 광주 군공항 기능 2028년까지 이전…미군 공여지 조속 반환 위해 협의\" kbc광주방송" [ref=f16e635] [cursor=pointer]:
+                - /url: /mnews/article/660/0000114958
+                - generic [ref=f16e636]:
+                  - generic [ref=f16e637]: 국방부 "'반도체 부지' 광주 군공항 기능 2028년까지 이전…미군 공여지 조속 반환 위해 협의"
+                  - generic [ref=f16e639]: kbc광주방송
+            - listitem [ref=f16e641]:
+              - link "‘논산 입소’ 천하람 “안규백 비판했다고 세게 할라” 한겨레" [ref=f16e642] [cursor=pointer]:
+                - /url: /mnews/article/028/0002817969
+                - generic [ref=f16e643]:
+                  - generic [ref=f16e644]: ‘논산 입소’ 천하람 “안규백 비판했다고 세게 할라”
+                  - generic [ref=f16e646]: 한겨레
+          - list [ref=f16e649]:
+            - listitem [ref=f16e650]:
+              - link "\"요새 코스닥이 오른다던데\"...지금이라도 코스닥 들어가야 하나 파이낸셜뉴스 파이낸셜뉴스" [ref=f16e651] [cursor=pointer]:
+                - /url: /mnews/article/014/0005559730
+                - generic [ref=f16e654]:
+                  - generic [ref=f16e655]: "\"요새 코스닥이 오른다던데\"...지금이라도 코스닥 들어가야 하나"
+                  - generic [ref=f16e657]:
+                    - img "파이낸셜뉴스" [ref=f16e659]
+                    - generic [ref=f16e660]: 파이낸셜뉴스
+            - listitem [ref=f16e661]:
+              - link "“해병대가 열사병 하나 못 참나”...훈련 강요 의혹에 軍당국 조사 착수 매일경제 매일경제" [ref=f16e662] [cursor=pointer]:
+                - /url: /mnews/article/009/0005719285
+                - generic [ref=f16e665]:
+                  - generic [ref=f16e666]: “해병대가 열사병 하나 못 참나”...훈련 강요 의혹에 軍당국 조사 착수
+                  - generic [ref=f16e668]:
+                    - img "매일경제" [ref=f16e670]
+                    - generic [ref=f16e671]: 매일경제
+            - listitem [ref=f16e672]:
+              - link "학대 아닙니다…강아지에 양파망 씌운 이유는? 연합뉴스TV 연합뉴스TV" [ref=f16e673] [cursor=pointer]:
+                - /url: /mnews/article/422/0000894400
+                - generic [ref=f16e676]:
+                  - generic [ref=f16e677]: 학대 아닙니다…강아지에 양파망 씌운 이유는?
+                  - generic [ref=f16e679]:
+                    - img "연합뉴스TV" [ref=f16e681]
+                    - generic [ref=f16e682]: 연합뉴스TV
+          - list [ref=f16e684]:
+            - listitem [ref=f16e685]:
+              - link "\"하이닉스 지금 줍줍하면 돈 번다\"…美서 극찬 쏟아진 이유 [종목+] 한국경제 한국경제" [ref=f16e686] [cursor=pointer]:
+                - /url: /mnews/article/015/0005319443
+                - generic [ref=f16e689]:
+                  - generic [ref=f16e690]: "\"하이닉스 지금 줍줍하면 돈 번다\"…美서 극찬 쏟아진 이유 [종목+]"
+                  - generic [ref=f16e692]:
+                    - img "한국경제" [ref=f16e694]
+                    - generic [ref=f16e695]: 한국경제
+            - listitem [ref=f16e696]:
+              - link "화학물질 191만L 보관한 평택 창고에 폭발·화재 동아일보 동아일보" [ref=f16e697] [cursor=pointer]:
+                - /url: /mnews/article/020/0003739963
+                - generic [ref=f16e700]:
+                  - generic [ref=f16e701]: 화학물질 191만L 보관한 평택 창고에 폭발·화재
+                  - generic [ref=f16e703]:
+                    - img "동아일보" [ref=f16e705]
+                    - generic [ref=f16e706]: 동아일보
+            - listitem [ref=f16e707]:
+              - link "부부 공동명의도 다주택 종부세 부과… 20년 절세 룰 깨졌다 조선일보 조선일보" [ref=f16e708] [cursor=pointer]:
+                - /url: /mnews/article/023/0003992302
+                - generic [ref=f16e711]:
+                  - generic [ref=f16e712]: 부부 공동명의도 다주택 종부세 부과… 20년 절세 룰 깨졌다
+                  - generic [ref=f16e714]:
+                    - img "조선일보" [ref=f16e716]
+                    - generic [ref=f16e717]: 조선일보
+          - list [ref=f16e719]:
+            - listitem [ref=f16e720]:
+              - link "정치" [ref=f16e721] [cursor=pointer]:
+                - /url: https://news.naver.com/section/100
+            - listitem [ref=f16e723]:
+              - link "경제" [ref=f16e724] [cursor=pointer]:
+                - /url: https://news.naver.com/section/101
+            - listitem [ref=f16e726]:
+              - link "사회" [ref=f16e727] [cursor=pointer]:
+                - /url: https://news.naver.com/section/102
+            - listitem [ref=f16e729]:
+              - link "생활/문화" [ref=f16e730] [cursor=pointer]:
+                - /url: https://news.naver.com/section/103
+            - listitem [ref=f16e732]:
+              - link "세계" [ref=f16e733] [cursor=pointer]:
+                - /url: https://news.naver.com/section/104
+            - listitem [ref=f16e735]:
+              - link "IT/과학" [ref=f16e736] [cursor=pointer]:
+                - /url: https://news.naver.com/section/105
+            - listitem [ref=f16e738]:
+              - link "오피니언" [ref=f16e739] [cursor=pointer]:
+                - /url: https://news.naver.com/opinion/home
+            - listitem [ref=f16e741]:
+              - link "랭킹" [ref=f16e742] [cursor=pointer]:
+                - /url: https://m.news.naver.com/rankingList
+            - listitem [ref=f16e744]:
+              - link "신문보기" [ref=f16e745] [cursor=pointer]:
+                - /url: https://news.naver.com/newspaper/home
+            - listitem [ref=f16e747]:
+              - link "프리미엄" [ref=f16e748] [cursor=pointer]:
+                - /url: https://contents.premium.naver.com
+        - generic [ref=f16e750]:
+          - generic [ref=f16e751]:
+            - heading [level=2] [ref=f16e755]:
+              - emphasis [ref=f16e756]: 조선비즈
+              - text: 클립
+            - list [ref=f16e757]:
+              - listitem [ref=f16e758]:
+                - link "여름 최고의 피서지로 꼽힌 인천국제공항 근황 여름 최고의 피서지로 꼽힌 인천국제공항 근황" [ref=f16e759] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=51B89B7C24C69A3542EDD3B32D2F617EC61B&serviceType=NEWS&recType=NEWS&recId=366_164585_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "여름 최고의 피서지로 꼽힌 인천국제공항 근황" [ref=f16e762]
+                  - generic [ref=f16e764]: 여름 최고의 피서지로 꼽힌 인천국제공항 근황
+              - listitem [ref=f16e767]:
+                - link "유럽 국가들의 월드컵 보이콧 논란 유럽 국가들의 월드컵 보이콧 논란" [ref=f16e768] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=22C8F7AEE58B3198AD070AF7884589909A7F&serviceType=NEWS&recType=NEWS&recId=366_163425_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "유럽 국가들의 월드컵 보이콧 논란" [ref=f16e771]
+                  - generic [ref=f16e773]: 유럽 국가들의 월드컵 보이콧 논란
+              - listitem [ref=f16e776]:
+                - link "sk하이닉스, 470만원... 가능? sk하이닉스, 470만원... 가능?" [ref=f16e777] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=C353CB3DCF8C1565B3C3DE865CD9558A9952&serviceType=NEWS&recType=NEWS&recId=366_163419_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "sk하이닉스, 470만원... 가능?" [ref=f16e780]
+                  - generic [ref=f16e782]: sk하이닉스, 470만원... 가능?
+              - listitem [ref=f16e785]:
+                - link "쿠팡 2분기 8350억 적자…상장 후 최악 쿠팡 2분기 8350억 적자…상장 후 최악" [ref=f16e786] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=FE7A8EBDEE4BFA33CC79BD84A5EA14D93E02&serviceType=NEWS&recType=NEWS&recId=366_164216_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "쿠팡 2분기 8350억 적자…상장 후 최악" [ref=f16e789]
+                  - generic [ref=f16e791]: 쿠팡 2분기 8350억 적자…상장 후 최악
+          - generic [ref=f16e794]:
+            - generic [ref=f16e797]:
+              - heading "구독이 늘어난 기자" [level=2] [ref=f16e798]
+              - button "안내" [ref=f16e799] [cursor=pointer]
+            - list [ref=f16e801]:
+              - listitem [ref=f16e802]:
+                - link "“본인도 마음 무거운 상황”…‘의사집안’ 자랑하다 증조부 흑역사 들춘 하영 “본인도 마음 무거운 상황”…‘의사집안’ 자랑하다 증조부 흑역사 들춘 하영" [ref=f16e803] [cursor=pointer]:
+                  - /url: /mnews/article/009/0005719348?type=journalists
+                  - img "“본인도 마음 무거운 상황”…‘의사집안’ 자랑하다 증조부 흑역사 들춘 하영" [ref=f16e806]
+                  - generic [ref=f16e807]: “본인도 마음 무거운 상황”…‘의사집안’ 자랑하다 증조부 흑역사 들춘 하영
+                - generic [ref=f16e810]:
+                  - link "이상규 기자 이상규 기자" [ref=f16e811] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/009/21611
+                    - img "이상규 기자" [ref=f16e813]
+                    - generic [ref=f16e814]: 이상규 기자
+                  - button "구독" [ref=f16e815] [cursor=pointer]
+              - listitem [ref=f16e817]:
+                - link "'학폭 쌍둥이' 이재영, 볼뽀뽀 사진 공개…이다영과 한솥밥 '학폭 쌍둥이' 이재영, 볼뽀뽀 사진 공개…이다영과 한솥밥" [ref=f16e818] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319464?type=journalists
+                  - img "'학폭 쌍둥이' 이재영, 볼뽀뽀 사진 공개…이다영과 한솥밥" [ref=f16e821]
+                  - generic [ref=f16e822]: "'학폭 쌍둥이' 이재영, 볼뽀뽀 사진 공개…이다영과 한솥밥"
+                - generic [ref=f16e825]:
+                  - link "박수빈 기자 박수빈 기자" [ref=f16e826] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/015/81628
+                    - img "박수빈 기자" [ref=f16e828]
+                    - generic [ref=f16e829]: 박수빈 기자
+                  - button "구독" [ref=f16e830] [cursor=pointer]
+              - listitem [ref=f16e832]:
+                - link "“25년 한집에서 산 게 투기냐”…강남 노인들 울분 터졌다 “25년 한집에서 산 게 투기냐”…강남 노인들 울분 터졌다" [ref=f16e833] [cursor=pointer]:
+                  - /url: /mnews/article/025/0003543275?type=journalists
+                  - img "“25년 한집에서 산 게 투기냐”…강남 노인들 울분 터졌다" [ref=f16e836]
+                  - generic [ref=f16e837]: “25년 한집에서 산 게 투기냐”…강남 노인들 울분 터졌다
+                - generic [ref=f16e840]:
+                  - link "김준영 기자 김준영 기자" [ref=f16e841] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/025/34164
+                    - img "김준영 기자" [ref=f16e843]
+                    - generic [ref=f16e844]: 김준영 기자
+                  - button "구독" [ref=f16e845] [cursor=pointer]
+              - listitem [ref=f16e847]:
+                - link "밭일하다 “몸 안 좋아, 쉴게요”라더니…30대 외국인 노동자 숨진 채 발견 밭일하다 “몸 안 좋아, 쉴게요”라더니…30대 외국인 노동자 숨진 채 발견" [ref=f16e848] [cursor=pointer]:
+                  - /url: /mnews/article/011/0004650373?type=journalists
+                  - img "밭일하다 “몸 안 좋아, 쉴게요”라더니…30대 외국인 노동자 숨진 채 발견" [ref=f16e851]
+                  - generic [ref=f16e852]: 밭일하다 “몸 안 좋아, 쉴게요”라더니…30대 외국인 노동자 숨진 채 발견
+                - generic [ref=f16e855]:
+                  - link "임혜린 기자 임혜린 기자" [ref=f16e856] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/011/81464
+                    - img "임혜린 기자" [ref=f16e858]
+                    - generic [ref=f16e859]: 임혜린 기자
+                  - button "구독" [ref=f16e860] [cursor=pointer]
+              - listitem [ref=f16e862]:
+                - link "제조업 인력 근속지원금 ‘경남형 버팀이음’ 추가 모집 제조업 인력 근속지원금 ‘경남형 버팀이음’ 추가 모집" [ref=f16e863] [cursor=pointer]:
+                  - /url: /mnews/article/032/0003463285?type=journalists
+                  - img "제조업 인력 근속지원금 ‘경남형 버팀이음’ 추가 모집" [ref=f16e866]
+                  - generic [ref=f16e867]: 제조업 인력 근속지원금 ‘경남형 버팀이음’ 추가 모집
+                - generic [ref=f16e870]:
+                  - link "김정훈 기자 김정훈 기자" [ref=f16e871] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/032/56340
+                    - img "김정훈 기자" [ref=f16e873]
+                    - generic [ref=f16e874]: 김정훈 기자
+                  - button "구독" [ref=f16e875] [cursor=pointer]
+              - listitem [ref=f16e877]:
+                - link "산부인과 진료 기다리던 30대 산모, 화장실서 나홀로 출산 산부인과 진료 기다리던 30대 산모, 화장실서 나홀로 출산" [ref=f16e878] [cursor=pointer]:
+                  - /url: /mnews/article/025/0003543578?type=journalists
+                  - img "산부인과 진료 기다리던 30대 산모, 화장실서 나홀로 출산" [ref=f16e881]
+                  - generic [ref=f16e882]: 산부인과 진료 기다리던 30대 산모, 화장실서 나홀로 출산
+                - generic [ref=f16e885]:
+                  - link "김지혜 기자 김지혜 기자" [ref=f16e886] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/025/26211
+                    - img "김지혜 기자" [ref=f16e888]
+                    - generic [ref=f16e889]: 김지혜 기자
+                  - button "구독" [ref=f16e890] [cursor=pointer]
+          - generic [ref=f16e892]:
+            - generic [ref=f16e894]:
+              - heading [level=2] [ref=f16e896]:
+                - emphasis [ref=f16e897]: 조선비즈
+                - text: 댓글 많은 뉴스
+              - text: 오전 8시~11시까지 집계한 결과입니다.
+            - list [ref=f16e898]:
+              - listitem [ref=f16e899]:
+                - link "1위 서울시 “3년간 풀어달라”… 정부, 조합원 지위 양도 완화에 선 그어" [ref=f16e900] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185389?ntype=RANKING
+                  - generic [ref=f16e901]: 1위
+                  - generic [ref=f16e905]: 서울시 “3년간 풀어달라”… 정부, 조합원 지위 양도 완화에 선 그어
+              - listitem [ref=f16e908]:
+                - link "2위 “코스피 반등 이미 시작됐다…V자 아닌 ‘√자형’ 될 것”" [ref=f16e909] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185408?ntype=RANKING
+                  - generic [ref=f16e910]: 2위
+                  - generic [ref=f16e914]: “코스피 반등 이미 시작됐다…V자 아닌 ‘√자형’ 될 것”
+              - listitem [ref=f16e917]:
+                - link "3위 ‘국가소방동원령’ 평택 위험물 저장시설, 2700평 국내 최대 규모" [ref=f16e918] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185409?ntype=RANKING
+                  - generic [ref=f16e919]: 3위
+                  - generic [ref=f16e923]: ‘국가소방동원령’ 평택 위험물 저장시설, 2700평 국내 최대 규모
+              - listitem [ref=f16e926]:
+                - link "4위 “차 진입 불편해서”…검정 페인트로 도로 중앙선 지운 교회, 경찰 수사" [ref=f16e927] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185454?ntype=RANKING
+                  - generic [ref=f16e928]: 4위
+                  - generic [ref=f16e932]: “차 진입 불편해서”…검정 페인트로 도로 중앙선 지운 교회, 경찰 수사
+              - listitem [ref=f16e935]:
+                - link "5위 정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다”" [ref=f16e936] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185456?ntype=RANKING
+                  - generic [ref=f16e937]: 5위
+                  - generic [ref=f16e941]: 정청래 “나 쪼잔하지 않아… 당 대표 되면 김민석 품겠다”
+              - listitem [ref=f16e944]:
+                - link "6위 코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축" [ref=f16e945] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/366/0001185440?ntype=RANKING
+                  - generic [ref=f16e946]: 6위
+                  - generic [ref=f16e950]: 코스피·코스닥 동반 하락 출발…美·이란 협상 난항에 투심 위축
+            - link "랭킹 뉴스 더보기" [ref=f16e954] [cursor=pointer]:
+              - /url: https://media.naver.com/press/366/ranking?type=comment
+          - list [ref=f16e957]:
+            - listitem [ref=f16e958]:
+              - link "[속보] 경찰 여객기참사 특별수사단, 한국공항공사·국토부 압수수색 매일경제" [ref=f16e959] [cursor=pointer]:
+                - /url: /mnews/article/009/0005719273
+                - generic [ref=f16e960]:
+                  - generic [ref=f16e961]: "[속보] 경찰 여객기참사 특별수사단, 한국공항공사·국토부 압수수색"
+                  - generic [ref=f16e963]: 매일경제
+            - listitem [ref=f16e965]:
+              - link "키움증권, 삼전닉스 목표가 동반↓…\"범용메모리 피크아웃 부담\" 연합뉴스" [ref=f16e966] [cursor=pointer]:
+                - /url: /mnews/article/001/0016243666
+                - generic [ref=f16e967]:
+                  - generic [ref=f16e968]: 키움증권, 삼전닉스 목표가 동반↓…"범용메모리 피크아웃 부담"
+                  - generic [ref=f16e970]: 연합뉴스
+            - listitem [ref=f16e972]:
+              - link "“술값 계산 안 해?” 노래방 손님 살해한 업주…’꼴망파’ 조폭 출신이었다 [오늘의 그날] 서울경제" [ref=f16e973] [cursor=pointer]:
+                - /url: /mnews/article/011/0004650369
+                - generic [ref=f16e974]:
+                  - generic [ref=f16e975]: “술값 계산 안 해?” 노래방 손님 살해한 업주…’꼴망파’ 조폭 출신이었다 [오늘의 그날]
+                  - generic [ref=f16e977]: 서울경제
+            - listitem [ref=f16e979]:
+              - link "트럼프 경호 또 구멍?…골프장 영공 침범에 F-16 출격 KBS" [ref=f16e980] [cursor=pointer]:
+                - /url: /mnews/article/056/0012235151
+                - generic [ref=f16e981]:
+                  - generic [ref=f16e982]: 트럼프 경호 또 구멍?…골프장 영공 침범에 F-16 출격
+                  - generic [ref=f16e984]: KBS
+          - list [ref=f16e987]:
+            - listitem [ref=f16e988]:
+              - link "[무비LAW] 외계인인 줄 알고 시민 쏜 경찰관… ‘호프’ 속 오인 사격, 국가 책임은 조선비즈 조선비즈" [ref=f16e989] [cursor=pointer]:
+                - /url: /mnews/article/366/0001185393
+                - generic [ref=f16e992]:
+                  - generic [ref=f16e993]: "[무비LAW] 외계인인 줄 알고 시민 쏜 경찰관… ‘호프’ 속 오인 사격, 국가 책임은"
+                  - generic [ref=f16e995]:
+                    - img "조선비즈" [ref=f16e997]
+                    - generic [ref=f16e998]: 조선비즈
+            - listitem [ref=f16e999]:
+              - link "'친일 의사 의혹' 하영 증조부, 총독부 기관지에 소개…\"조선인 상종 안한다\" 뉴스1 뉴스1" [ref=f16e1000] [cursor=pointer]:
+                - /url: /mnews/article/421/0009106940
+                - generic [ref=f16e1003]:
+                  - generic [ref=f16e1004]: "'친일 의사 의혹' 하영 증조부, 총독부 기관지에 소개…\"조선인 상종 안한다\""
+                  - generic [ref=f16e1006]:
+                    - img "뉴스1" [ref=f16e1008]
+                    - generic [ref=f16e1009]: 뉴스1
+            - listitem [ref=f16e1010]:
+              - link "[부자들의 투자노트] 본토벨 \"증시, 균열 조짐 보여…'신중한 비중확대' 의견 유지\" SBS Biz SBS Biz" [ref=f16e1011] [cursor=pointer]:
+                - /url: /mnews/article/374/0000526695
+                - generic [ref=f16e1014]:
+                  - generic [ref=f16e1015]: "[부자들의 투자노트] 본토벨 \"증시, 균열 조짐 보여…'신중한 비중확대' 의견 유지\""
+                  - generic [ref=f16e1017]:
+                    - img "SBS Biz" [ref=f16e1019]
+                    - generic [ref=f16e1020]: SBS Biz
+          - list [ref=f16e1022]:
+            - listitem [ref=f16e1023]:
+              - link "삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어” 헤럴드경제 헤럴드경제" [ref=f16e1024] [cursor=pointer]:
+                - /url: /mnews/article/016/0002682037
+                - generic [ref=f16e1027]:
+                  - generic [ref=f16e1028]: 삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”
+                  - generic [ref=f16e1030]:
+                    - img "헤럴드경제" [ref=f16e1032]
+                    - generic [ref=f16e1033]: 헤럴드경제
+            - listitem [ref=f16e1034]:
+              - link "신칸센인데 도쿄→오사카 9시간…이틀 만에 매진된 매력은[이세계도쿄] 국민일보 국민일보" [ref=f16e1035] [cursor=pointer]:
+                - /url: /mnews/article/005/0001866115
+                - generic [ref=f16e1038]:
+                  - generic [ref=f16e1039]: 신칸센인데 도쿄→오사카 9시간…이틀 만에 매진된 매력은[이세계도쿄]
+                  - generic [ref=f16e1041]:
+                    - img "국민일보" [ref=f16e1043]
+                    - generic [ref=f16e1044]: 국민일보
+            - listitem [ref=f16e1045]:
+              - link "코인, 한국에서 더 싸졌다⋯'역 김치프리미엄' 역대 최장 MBN MBN" [ref=f16e1046] [cursor=pointer]:
+                - /url: /mnews/article/057/0001963017
+                - generic [ref=f16e1049]:
+                  - generic [ref=f16e1050]: 코인, 한국에서 더 싸졌다⋯'역 김치프리미엄' 역대 최장
+                  - generic [ref=f16e1052]:
+                    - img "MBN" [ref=f16e1054]
+                    - generic [ref=f16e1055]: MBN
+          - list [ref=f16e1057]:
+            - listitem [ref=f16e1058]:
+              - link "13.6%↓ 28년 만의 판매 최저치…'자영업자 발' 경고등 이코노미스트 이코노미스트" [ref=f16e1059] [cursor=pointer]:
+                - /url: /mnews/article/243/0000101468
+                - generic [ref=f16e1062]:
+                  - generic [ref=f16e1063]: 13.6%↓ 28년 만의 판매 최저치…'자영업자 발' 경고등
+                  - generic [ref=f16e1065]:
+                    - img "이코노미스트" [ref=f16e1067]
+                    - generic [ref=f16e1068]: 이코노미스트
+            - listitem [ref=f16e1069]:
+              - link "[속보]정청래“내가 당대표되면 李지지 10% 올라” 문화일보 문화일보" [ref=f16e1070] [cursor=pointer]:
+                - /url: /mnews/article/021/0002810546
+                - generic [ref=f16e1073]:
+                  - generic [ref=f16e1074]: "[속보]정청래“내가 당대표되면 李지지 10% 올라”"
+                  - generic [ref=f16e1076]:
+                    - img "문화일보" [ref=f16e1078]
+                    - generic [ref=f16e1079]: 문화일보
+            - listitem [ref=f16e1080]:
+              - link "\"평택 위험물창고 화재 큰 불길 잡아\" SBS Biz SBS Biz" [ref=f16e1081] [cursor=pointer]:
+                - /url: /mnews/article/374/0000526717
+                - generic [ref=f16e1084]:
+                  - generic [ref=f16e1085]: "\"평택 위험물창고 화재 큰 불길 잡아\""
+                  - generic [ref=f16e1087]:
+                    - img "SBS Biz" [ref=f16e1089]
+                    - generic [ref=f16e1090]: SBS Biz
+          - generic [ref=f16e1091]:
+            - heading [level=2] [ref=f16e1095]:
+              - emphasis [ref=f16e1096]: 조선비즈
+              - text: 헤드라인
+            - list [ref=f16e1097]:
+              - listitem [ref=f16e1098]:
+                - link "코스피 장중 상승 전환해 6340선…삼성전자 3%↑" [ref=f16e1099] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185502
+              - listitem [ref=f16e1105]:
+                - link "원화 강세에 긴장하는 현대차·기아… 해외선 수익성 악화, 안방선 中과의 경쟁 불리" [ref=f16e1106] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185475
+              - listitem [ref=f16e1112]:
+                - link "계약금 0·중도금 0… 정비사업 분담금, 입주 후 4년까지 미룬다" [ref=f16e1113] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185489
+              - listitem [ref=f16e1119]:
+                - link "[르포] 실외기 하나로 냉방·난방·온수까지… 제주 주택에 들어간 삼성전자 신기술" [ref=f16e1120] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185496
+              - listitem [ref=f16e1126]:
+                - link "“사실무근”이라더니 하루 만에 번복…배우 하영, 증조부 친일 의혹 사과" [ref=f16e1127] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185480
+              - listitem [ref=f16e1133]:
+                - link "“살아보려 일 배웠다”…‘정준영 단톡방’ 이종현, 8년 만에 전한 근황" [ref=f16e1134] [cursor=pointer]:
+                  - /url: /mnews/article/366/0001185500
+    - generic: mobile
+  - contentinfo [ref=f16e1142]:
+    - paragraph [ref=f16e1143]:
+      - generic [ref=f16e1144]:
+        - link "로그인" [ref=f16e1146] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login?svctype=262144
+        - link "전체서비스" [ref=f16e1148] [cursor=pointer]:
+          - /url: https://m.naver.com/services.html?f=svc.news
+      - generic [ref=f16e1149]:
+        - link "서비스안내" [ref=f16e1151] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+        - link "오류신고" [ref=f16e1153] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+        - link "고객센터" [ref=f16e1155] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - generic [ref=f16e1156]:
+        - 'link "기사배열 책임자 : 김수향" [ref=f16e1157] [cursor=pointer]':
+          - /url: https://news.naver.com/ombudsman/edit
+        - generic [ref=f16e1158]: "청소년 보호 책임자 : 이정규"
+      - generic [ref=f16e1159]: 각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 조선비즈
+      - generic [ref=f16e1160]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+      - link "NAVER" [ref=f16e1162] [cursor=pointer]:
+        - /url: https://www.navercorp.com

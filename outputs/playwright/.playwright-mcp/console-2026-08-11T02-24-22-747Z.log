@@ -1,0 +1,5 @@
+[       6ms] [WARNING] The key "target-densitydpi" is not supported. @ https://news.naver.com/:50
+[     393ms] [WARNING] [egjs] The 4th argument of infiniteGrid is missing.
+Download Outlayer from [https://github.com/metafizzy/outlayer/]. @ https://ssl.pstatic.net/static.news/mnews/resources/20260730_012918/js/generated/news.mobile.js:5840
+[     467ms] [WARNING] setPolicyInfo {versionInfo: Object, sdkInfo: Object, sentryInfo: Object} @ https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js:0
+[  181107ms] [WARNING] setPolicyInfo {versionInfo: Object, sdkInfo: Object, sentryInfo: Object} @ https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js:0
