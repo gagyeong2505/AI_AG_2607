@@ -1,0 +1,7 @@
+# Playwright MCP internal cache/logs (not project outputs)
+.playwright-mcp/
+
+# Office temp/lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx

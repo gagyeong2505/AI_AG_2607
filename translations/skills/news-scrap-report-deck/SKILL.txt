@@ -1,0 +1,58 @@
+---
+name: news-scrap-report-deck
+description: 주제 또는 기사 URL 목록이 주어지면 Playwright MCP로 뉴스 기사를 스크랩하고(전체 화면 스크린샷을 outputs/playwright/에 저장), 그 내용을 분석하여 번들 스크립트를 통해 python-docx 기반의 워드(.docx) 보고서와 python-pptx 기반의 파워포인트(.pptx) 발표자료를 함께 생성한다. 사용자가 기사를 스크랩/스크린샷하고 이를 보고서와 발표자료로 만들어달라고 요청할 때 사용한다. 예: "playwright로 기사 스크랩해서 보고서랑 발표자료 만들어줘", "이 기사들 스크랩하고 분석해서 ppt로 만들어줘", "뉴스 스크랩 후 워드 보고서와 파워포인트 둘 다 만들어줘".
+---
+
+# News Scrap Report Deck (기사 스크랩 보고서·발표자료)
+
+## 개요
+
+주제 또는 기사 URL 목록이 주어지면, Playwright MCP로 각 기사를 열어 전체 화면 스크린샷을 저장하고 본문 텍스트를 추출한다. 스크랩한 기사를 분석한 뒤, 하나의 공유 JSON 콘텐츠 파일을 기반으로 서식이 적용된 `.docx` 보고서(`scripts/generate_docx.py`)와 `.pptx` 발표자료(`scripts/generate_pptx.py`)를 모두 생성한다. `python-docx`와 `python-pptx`가 필요하다 (`pip install python-docx python-pptx`).
+
+## 워크플로우
+
+### 1단계: 범위 확인
+
+부족한 정보만 질문한다:
+- 검색할 주제/키워드, 또는 바로 스크랩할 구체적인 기사 URL 목록
+- 포함할 기사 수 (기본값: 3~5개)
+- 보고서/발표자료 제목
+- 출력 파일명 기본값 (기본값: 주제 슬러그)
+- 메인 컬러 hex 코드 (기본값 `2E74B5`)
+
+### 2단계: Playwright MCP로 기사 검색 및 스크랩
+
+URL 대신 주제가 주어진 경우, 기사는 반드시 네이버 뉴스(`https://news.naver.com`)에서만 찾아온다. 네이버 뉴스의 검색/섹션 페이지에서 `browser_navigate`와 `browser_find`/`browser_snapshot`으로 대상 기사를 선정한다. 구글 뉴스 등 다른 뉴스 출처는 주제 기반 검색에 사용하지 않는다.
+
+각 기사마다:
+1. `browser_navigate`로 기사 URL에 접속한다.
+2. `browser_take_screenshot`을 `fullPage: true`로 실행하여 `outputs/playwright/<주제-슬러그>/<번호>-<기사-슬러그>.png`에 저장한다(폴더가 없으면 생성). 프로젝트 규칙에 따라 Playwright MCP의 모든 산출물은 반드시 `outputs/playwright/` 아래에 저장해야 하며, 스크랩 스크린샷도 예외 없이 이 규칙을 따른다.
+3. `browser_snapshot`(또는 `browser_find`)으로 분석에 필요한 헤드라인, 언론사/출처, 게재일(표시된 경우), 본문 텍스트를 읽는다.
+
+### 3단계: 분석
+
+기사마다 1~2문장 요약과 2~4개의 핵심 포인트를 작성한다. 전체 기사에 걸쳐 공통된 주제나 시사점을 파악해 보고서/발표자료의 개요와 결론에 반영한다. 사실을 절대 지어내지 말고 실제로 스크랩한 내용만 사용한다.
+
+### 4단계: 콘텐츠 JSON 작성
+
+`references/content_schema.md`의 스키마에 맞는 JSON 파일을 작성한다(작성 예시는 `templates/example_content.json` 참고). 2단계에서 저장한 실제 스크린샷 경로를 사용한다. JSON은 임시 경로(예: `<주제-슬러그>_content.json`)에 저장한다.
+
+### 5단계: 보고서와 발표자료 생성
+
+```
+python "<skill-dir>/scripts/generate_docx.py" --input <주제-슬러그>_content.json --output outputs/reports/<주제-슬러그>_report.docx --color <hex>
+python "<skill-dir>/scripts/generate_pptx.py" --input <주제-슬러그>_content.json --output outputs/reports/<주제-슬러그>_deck.pptx --color <hex>
+```
+
+`--color`는 두 스크립트 모두 선택 사항이며 기본값은 `2E74B5`다. `outputs/reports/` 폴더가 없으면 생성한다.
+
+### 6단계: 정리 및 결과 전달
+
+임시 콘텐츠 JSON 파일을 삭제한다. 저장된 `.docx`, `.pptx` 경로와 스크린샷 폴더 위치를 사용자에게 알리고, 채팅에서 기사 목록을 요약해 전달한다.
+
+## 참고 사항
+
+- 보고서 서식: 제목 40pt / 제목(heading) 28pt / 본문 20pt, 맑은 고딕, 설정 가능한 메인 컬러, 기사별 스크린샷을 본문 폭에 맞춰 삽입.
+- 발표자료 서식: 표지 슬라이드 → 개요 슬라이드 → 기사별 슬라이드(좌측 스크린샷, 우측 헤드라인/요약/핵심 포인트) → 결론 슬라이드, 전체 맑은 고딕 적용.
+- `screenshot` 경로가 디스크에 존재하지 않으면 경고를 출력하고 해당 이미지만 건너뛰며 전체 생성은 실패하지 않는다 — 출력물에 이미지가 빠져 있다면 콘텐츠 JSON의 경로를 다시 확인한다.
+- 대상 `.docx`/`.pptx` 파일이 이미 Word/PowerPoint에서 열려 있으면 저장 시 권한 오류가 발생하므로, 먼저 파일을 닫아달라고 사용자에게 요청한다.
