@@ -1,0 +1,1936 @@
+- generic [ref=f2e2]:
+  - link [ref=f2e6] [cursor=pointer]:
+    - /url: /sub/inquery_project.asp
+  - generic [ref=f2e9]:
+    - generic [ref=f2e10]:
+      - link "GEWEB":
+        - /url: /main/index.asp
+        - img "GEWEB" [ref=f2e11] [cursor=pointer]
+    - generic [ref=f2e12]:
+      - generic [ref=f2e16]:
+        - textbox [ref=f2e17]
+        - link [ref=f2e19] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - generic [ref=f2e21]:
+        - list [ref=f2e22]:
+          - listitem [ref=f2e23]:
+            - link "AWARDS 안내" [ref=f2e24] [cursor=pointer]:
+              - /url: /sub/about.asp
+          - listitem [ref=f2e25]:
+            - link "2026 수상작" [ref=f2e26] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=f2e27]:
+            - link "수상안내" [ref=f2e28] [cursor=pointer]:
+              - /url: /sub/mark.asp
+          - listitem [ref=f2e29]:
+            - link "문의하기" [ref=f2e30] [cursor=pointer]:
+              - /url: /sub/inquery.asp
+          - listitem [ref=f2e31]:
+            - link "심사등록" [ref=f2e32] [cursor=pointer]:
+              - /url: /mypage/business_nsite.asp
+        - generic [ref=f2e33]:
+          - definition [ref=f2e34]:
+            - link "디지털에이전시검색" [ref=f2e35] [cursor=pointer]:
+              - /url: /sub/recommend.asp
+          - definition [ref=f2e36]:
+            - link "에이전시 견적받기" [ref=f2e37] [cursor=pointer]:
+              - /url: /sub/inquery_project.asp
+          - definition [ref=f2e38]:
+            - link "디지털에이전시순위정보" [ref=f2e39] [cursor=pointer]:
+              - /url: /sub/agency.asp
+      - list [ref=f2e41]:
+        - listitem [ref=f2e42]:
+          - link "로그인" [ref=f2e43] [cursor=pointer]:
+            - /url: /member/login.asp?loc=%2Fsub%2Flist%2Easp%3FRetrieveFlag%3D%26Page%3D1%26str%5FString%3D%253Fdisplayrow%253D60%2526Txt%5Fkey%253Dall%2526Txt%5Fword%253D%2526Txt%5Fagnumber%253D%2526Txt%5Ffgbn%253D5%2526Txt%5Fbcode1%253D%2526Txt%5Fgbflag%253D%2526Txt%5Fbcode2%253D%2526Txt%5Fbcode3%253D%2526Txt%5Fbcode4%253D%2526Txt%5Fbcode5%253D%2526Page%253D%26Txt%5Fword%3D%26Txt%5Ffgbn%3D5%26Txt%5Fbcode1%3D022710001%26Txt%5Fgbflag%3D%26Txt%5Fbcode2%3D%26Txt%5Fbcode3%3D%26Txt%5Fbcode4%3D%26Txt%5Fbcode5%3D%26Txt%5Fagnumber%3D%26str%5Fno%3D
+        - listitem [ref=f2e44]:
+          - text: /
+          - link "회원가입" [ref=f2e45] [cursor=pointer]:
+            - /url: /member/simple_join_1.asp
+  - generic [ref=f2e46]:
+    - generic [ref=f2e47]:
+      - generic [ref=f2e48]:
+        - generic [ref=f2e49]: 연도별 FINALIST
+        - combobox [ref=f2e51] [cursor=pointer]:
+          - option "연도별 선정작" [selected]
+          - option "2025년"
+          - option "2024년"
+          - option "2023년"
+          - option "2022년"
+          - option "2021년"
+          - option "2020년"
+          - option "2019년"
+          - option "2018년"
+          - option "2017년"
+          - option "2016년"
+      - generic [ref=f2e52]:
+        - list [ref=f2e53]:
+          - listitem [ref=f2e54]:
+            - link "GDWEB 선정작" [ref=f2e55] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=f2e56]:
+            - link "- WEB 부문" [ref=f2e57] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=f2e58]:
+            - link "- MOBILE 부문" [ref=f2e59] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=7
+        - list [ref=f2e60]:
+          - listitem [ref=f2e61]:
+            - link "심사방법 및 절차" [ref=f2e62] [cursor=pointer]:
+              - /url: /sub/process.asp
+          - listitem [ref=f2e63]:
+            - link "심사위원" [ref=f2e64] [cursor=pointer]:
+              - /url: /sub/judge.asp
+          - listitem [ref=f2e65]:
+            - link "심사등록" [ref=f2e66] [cursor=pointer]:
+              - /url: /mypage/business_nsite.asp
+          - listitem [ref=f2e67]:
+            - link "수상 신청" [ref=f2e68] [cursor=pointer]:
+              - /url: /sub/mark.asp
+        - list [ref=f2e69]:
+          - listitem [ref=f2e70]:
+            - link "에이전시 검색" [ref=f2e71] [cursor=pointer]:
+              - /url: /sub/recommend.asp
+          - listitem [ref=f2e72]:
+            - link "에이전시 순위" [ref=f2e73] [cursor=pointer]:
+              - /url: /sub/agency.asp
+          - listitem [ref=f2e74]:
+            - link "채용뉴스" [ref=f2e75] [cursor=pointer]:
+              - /url: /boad/bd_free/2/egolist.asp?bd=2
+          - listitem [ref=f2e76]:
+            - link "무료이미지" [ref=f2e77] [cursor=pointer]:
+              - /url: /sharing/index.asp
+        - list [ref=f2e78]:
+          - listitem [ref=f2e79]:
+            - link "일본 웹사이트" [ref=f2e80] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=23
+          - listitem [ref=f2e81]:
+            - link "해외 웹사이트" [ref=f2e82] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=6
+        - list [ref=f2e83]:
+          - listitem [ref=f2e84]:
+            - link "GDWEB 이야기" [ref=f2e85] [cursor=pointer]:
+              - /url: /boad/bd_news/1/egoread.asp?bd=5&typ=0&val=0&itm=&txt=&pg=1&seq=976
+      - generic [ref=f2e86]:
+        - paragraph [ref=f2e87]: 문의
+        - paragraph [ref=f2e88]: TEL 031.994.1250
+        - paragraph [ref=f2e89]: contact@gdweb.co.kr
+        - paragraph [ref=f2e90]: 오전 10시 ~ 오후 6시
+    - generic [ref=f2e91]:
+      - generic [ref=f2e92]:
+        - generic [ref=f2e93]:
+          - list [ref=f2e96]:
+            - listitem [ref=f2e97]:
+              - link "전체보기" [ref=f2e98] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e99]:
+              - link "관공서/기관" [ref=f2e100] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e101]:
+              - link "디자인" [ref=f2e102] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e103]:
+              - link "문화/예술" [ref=f2e104] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e105]:
+              - link "영화/공연" [ref=f2e106] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e107]:
+              - link "포털/보털" [ref=f2e108] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e109]:
+              - link "통신" [ref=f2e110] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e111]:
+              - link "소프트웨어/IT서비스" [ref=f2e112] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e113]:
+              - link "게임/취미" [ref=f2e114] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e115]:
+              - link "쇼핑" [ref=f2e116] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e117]:
+              - link "패션" [ref=f2e118] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e119]:
+              - link "생활" [ref=f2e120] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e121]:
+              - link "여성" [ref=f2e122] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e123]:
+              - link "식품" [ref=f2e124] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e125]:
+              - link "자동차" [ref=f2e126] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e127]:
+              - link "건축/건설" [ref=f2e128] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e129]:
+              - link "프로모션" [ref=f2e130] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e131]:
+              - link "레져/여행" [ref=f2e132] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e133]:
+              - link "금융서비스" [ref=f2e134] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e135]:
+              - link "가전/전자" [ref=f2e136] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e137]:
+              - link "교육" [ref=f2e138] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e139]:
+              - link "학교/학원" [ref=f2e140] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e141]:
+              - link "유아/아동" [ref=f2e142] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e143]:
+              - link "건강/의학" [ref=f2e144] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e145]:
+              - link "웹진/정보" [ref=f2e146] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e147]:
+              - link "유통" [ref=f2e148] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e149]:
+              - link "행사" [ref=f2e150] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e151]:
+              - link "기업소개" [ref=f2e152] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e153]:
+              - link "IT/시스템 개발" [ref=f2e154] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e155]:
+              - link "물류/무역" [ref=f2e156] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e157]:
+              - link "과학/첨단" [ref=f2e158] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e159]:
+              - link "단체/협회" [ref=f2e160] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e161]:
+              - link "뷰티" [ref=f2e162] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e163]:
+              - link "엔터테인먼트" [ref=f2e164] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e165]:
+              - link "복지/사회" [ref=f2e166] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e167]:
+              - link "기업채용" [ref=f2e168] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f2e169]:
+              - link "제조" [ref=f2e170] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=f2e171]:
+            - generic [ref=f2e174] [cursor=pointer]:
+              - text: 타겟층
+              - generic [ref=f2e175]: more
+            - generic [ref=f2e178] [cursor=pointer]:
+              - text: 표현방법
+              - generic [ref=f2e179]: more
+            - generic [ref=f2e182] [cursor=pointer]:
+              - text: 디자인컨셉
+              - generic [ref=f2e183]: more
+            - generic [ref=f2e186] [cursor=pointer]:
+              - text: 컬러별
+              - generic [ref=f2e187]: more
+          - list [ref=f2e190]:
+            - listitem [ref=f2e191]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=123
+                - img [ref=f2e192] [cursor=pointer]
+            - listitem [ref=f2e193]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=287
+                - img [ref=f2e194] [cursor=pointer]
+            - listitem [ref=f2e195]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=63
+                - img [ref=f2e196] [cursor=pointer]
+            - listitem [ref=f2e197]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=860
+                - img [ref=f2e198] [cursor=pointer]
+            - listitem [ref=f2e199]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=119
+                - img [ref=f2e200] [cursor=pointer]
+            - listitem [ref=f2e201]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=648
+                - img [ref=f2e202] [cursor=pointer]
+            - listitem [ref=f2e203]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=48
+                - img [ref=f2e204] [cursor=pointer]
+            - listitem [ref=f2e205]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=23
+                - img [ref=f2e206] [cursor=pointer]
+            - listitem [ref=f2e207]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=64
+                - img [ref=f2e208] [cursor=pointer]
+            - listitem [ref=f2e209]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=657
+                - img [ref=f2e210] [cursor=pointer]
+            - listitem [ref=f2e211]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=724
+                - img [ref=f2e212] [cursor=pointer]
+            - listitem [ref=f2e213]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=663
+                - img [ref=f2e214] [cursor=pointer]
+            - listitem [ref=f2e215]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=69
+                - img [ref=f2e216] [cursor=pointer]
+            - listitem [ref=f2e217]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=122
+                - img [ref=f2e218] [cursor=pointer]
+            - listitem [ref=f2e219]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=619
+                - img [ref=f2e220] [cursor=pointer]
+            - listitem [ref=f2e221]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=816
+                - img [ref=f2e222] [cursor=pointer]
+            - listitem [ref=f2e223]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=100
+                - img [ref=f2e224] [cursor=pointer]
+            - listitem [ref=f2e225]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=223
+                - img [ref=f2e226] [cursor=pointer]
+            - listitem [ref=f2e227]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=440
+                - img [ref=f2e228] [cursor=pointer]
+            - listitem [ref=f2e229]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=553
+                - img [ref=f2e230] [cursor=pointer]
+            - listitem [ref=f2e231]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=358
+                - img [ref=f2e232] [cursor=pointer]
+            - listitem [ref=f2e233]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=37
+                - img [ref=f2e234] [cursor=pointer]
+            - listitem [ref=f2e235]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=113
+                - img [ref=f2e236] [cursor=pointer]
+            - listitem [ref=f2e237]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=71
+                - img [ref=f2e238] [cursor=pointer]
+            - listitem [ref=f2e239]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=210
+                - img [ref=f2e240] [cursor=pointer]
+            - listitem [ref=f2e241]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=696
+                - img [ref=f2e242] [cursor=pointer]
+            - listitem [ref=f2e243]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=290
+                - img [ref=f2e244] [cursor=pointer]
+            - listitem [ref=f2e245]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=321
+                - img [ref=f2e246] [cursor=pointer]
+            - listitem [ref=f2e247]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=745
+                - img [ref=f2e248] [cursor=pointer]
+            - listitem [ref=f2e249]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=15
+                - img [ref=f2e250] [cursor=pointer]
+            - listitem [ref=f2e251]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=35
+                - img [ref=f2e252] [cursor=pointer]
+            - listitem [ref=f2e253]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=87
+                - img [ref=f2e254] [cursor=pointer]
+            - listitem [ref=f2e255]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=320
+                - img [ref=f2e256] [cursor=pointer]
+            - listitem [ref=f2e257]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=273
+                - img [ref=f2e258] [cursor=pointer]
+            - listitem [ref=f2e259]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=164
+                - img [ref=f2e260] [cursor=pointer]
+            - listitem [ref=f2e261]:
+              - link:
+                - /url: /sub/portfolio.asp?Txt_agnumber=89
+                - img [ref=f2e262] [cursor=pointer]
+          - generic [ref=f2e264]:
+            - list [ref=f2e265]:
+              - listitem [ref=f2e266]:
+                - generic [ref=f2e267]:
+                  - generic [ref=f2e268]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27413
+                      - img [ref=f2e269] [cursor=pointer]
+                  - generic [ref=f2e270]:
+                    - paragraph [ref=f2e271]:
+                      - link "뷰전" [ref=f2e272] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e273]: 26.08.13
+                  - generic [ref=f2e274]:
+                    - generic [ref=f2e276]:
+                      - term [ref=f2e277]:
+                        - link [ref=f2e278] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e280]:
+                        - link [ref=f2e281] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e283]:
+                        - link [ref=f2e284] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27413
+                    - paragraph [ref=f2e286]: 3,423
+              - listitem [ref=f2e287]:
+                - generic [ref=f2e288]:
+                  - generic [ref=f2e289]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27404
+                      - img [ref=f2e290] [cursor=pointer]
+                  - generic [ref=f2e291]:
+                    - paragraph [ref=f2e292]:
+                      - link "포스코플로우" [ref=f2e293] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e294]: 26.08.12
+                  - generic [ref=f2e295]:
+                    - generic [ref=f2e297]:
+                      - term [ref=f2e298]:
+                        - link [ref=f2e299] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e301]:
+                        - link [ref=f2e302] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e304]:
+                        - link [ref=f2e305] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27404
+                    - paragraph [ref=f2e307]: 5,595
+              - listitem [ref=f2e308]:
+                - generic [ref=f2e309]:
+                  - generic [ref=f2e310]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27344
+                      - img [ref=f2e311] [cursor=pointer]
+                  - generic [ref=f2e312]:
+                    - paragraph [ref=f2e313]:
+                      - link "제니하우스" [ref=f2e314] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e315]: 26.08.05
+                  - generic [ref=f2e316]:
+                    - generic [ref=f2e318]:
+                      - term [ref=f2e319]:
+                        - link [ref=f2e320] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e322]:
+                        - link [ref=f2e323] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e325]:
+                        - link [ref=f2e326] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27344
+                    - paragraph [ref=f2e328]: 5,320
+              - listitem [ref=f2e329]:
+                - generic [ref=f2e330]:
+                  - generic [ref=f2e331]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27322
+                      - img [ref=f2e332] [cursor=pointer]
+                  - generic [ref=f2e333]:
+                    - paragraph [ref=f2e334]:
+                      - link "크리에이츠" [ref=f2e335] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e336]: 26.07.28
+                  - generic [ref=f2e337]:
+                    - generic [ref=f2e339]:
+                      - term [ref=f2e340]:
+                        - link [ref=f2e341] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e343]:
+                        - link [ref=f2e344] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e346]:
+                        - link [ref=f2e347] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27322
+                    - paragraph [ref=f2e349]: 8,158
+              - listitem [ref=f2e350]:
+                - generic [ref=f2e351]:
+                  - generic [ref=f2e352]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27304
+                      - img [ref=f2e353] [cursor=pointer]
+                  - generic [ref=f2e354]:
+                    - paragraph [ref=f2e355]:
+                      - link "한국전광" [ref=f2e356] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e357]: 26.07.21
+                  - generic [ref=f2e358]:
+                    - generic [ref=f2e360]:
+                      - term [ref=f2e361]:
+                        - link [ref=f2e362] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e364]:
+                        - link [ref=f2e365] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e367]:
+                        - link [ref=f2e368] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27304
+                    - paragraph [ref=f2e370]: 17,045
+              - listitem [ref=f2e371]:
+                - generic [ref=f2e372]:
+                  - generic [ref=f2e373]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27289
+                      - img [ref=f2e374] [cursor=pointer]
+                  - generic [ref=f2e375]:
+                    - paragraph [ref=f2e376]:
+                      - link "한빛산업" [ref=f2e377] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e378]: 26.07.16
+                  - generic [ref=f2e379]:
+                    - generic [ref=f2e381]:
+                      - term [ref=f2e382]:
+                        - link [ref=f2e383] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e385]:
+                        - link [ref=f2e386] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e388]:
+                        - link [ref=f2e389] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27289
+                    - paragraph [ref=f2e391]: 19,544
+              - listitem [ref=f2e392]:
+                - generic [ref=f2e393]:
+                  - generic [ref=f2e394]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27276
+                      - img [ref=f2e395] [cursor=pointer]
+                  - generic [ref=f2e396]:
+                    - paragraph [ref=f2e397]:
+                      - link "신한퓨처스랩" [ref=f2e398] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e399]: 26.07.13
+                  - generic [ref=f2e400]:
+                    - generic [ref=f2e402]:
+                      - term [ref=f2e403]:
+                        - link [ref=f2e404] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e406]:
+                        - link [ref=f2e407] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e409]:
+                        - link [ref=f2e410] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27276
+                    - paragraph [ref=f2e412]: 11,791
+              - listitem [ref=f2e413]:
+                - generic [ref=f2e414]:
+                  - generic [ref=f2e415]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27273
+                      - img [ref=f2e416] [cursor=pointer]
+                  - generic [ref=f2e417]:
+                    - paragraph [ref=f2e418]:
+                      - link "스튜디오카일" [ref=f2e419] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e420]: 26.07.13
+                  - generic [ref=f2e421]:
+                    - generic [ref=f2e423]:
+                      - term [ref=f2e424]:
+                        - link [ref=f2e425] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e427]:
+                        - link [ref=f2e428] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e430]:
+                        - link [ref=f2e431] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27273
+                    - paragraph [ref=f2e433]: 10,480
+              - listitem [ref=f2e434]:
+                - generic [ref=f2e435]:
+                  - generic [ref=f2e436]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27252
+                      - img [ref=f2e437] [cursor=pointer]
+                  - generic [ref=f2e438]:
+                    - paragraph [ref=f2e439]:
+                      - link "NanoH2O" [ref=f2e440] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e441]: 26.07.09
+                  - generic [ref=f2e442]:
+                    - generic [ref=f2e444]:
+                      - term [ref=f2e445]:
+                        - link [ref=f2e446] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e448]:
+                        - link [ref=f2e449] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e451]:
+                        - link [ref=f2e452] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27252
+                    - paragraph [ref=f2e454]: 12,304
+              - listitem [ref=f2e455]:
+                - generic [ref=f2e456]:
+                  - generic [ref=f2e457]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27207
+                      - img [ref=f2e458] [cursor=pointer]
+                  - generic [ref=f2e459]:
+                    - paragraph [ref=f2e460]:
+                      - link "킹콩애드" [ref=f2e461] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e462]: 26.07.08
+                  - generic [ref=f2e463]:
+                    - generic [ref=f2e465]:
+                      - term [ref=f2e466]:
+                        - link [ref=f2e467] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e469]:
+                        - link [ref=f2e470] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e472]:
+                        - link [ref=f2e473] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27207
+                    - paragraph [ref=f2e475]: 8,538
+              - listitem [ref=f2e476]:
+                - generic [ref=f2e477]:
+                  - generic [ref=f2e478]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27183
+                      - img [ref=f2e479] [cursor=pointer]
+                  - generic [ref=f2e480]:
+                    - paragraph [ref=f2e481]:
+                      - link "카카오 지속가능성" [ref=f2e482] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e483]: 26.06.24
+                  - generic [ref=f2e484]:
+                    - generic [ref=f2e486]:
+                      - term [ref=f2e487]:
+                        - link [ref=f2e488] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e490]:
+                        - link [ref=f2e491] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e493]:
+                        - link [ref=f2e494] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27183
+                    - paragraph [ref=f2e496]: 15,810
+              - listitem [ref=f2e497]:
+                - generic [ref=f2e498]:
+                  - generic [ref=f2e499]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27160
+                      - img [ref=f2e500] [cursor=pointer]
+                  - generic [ref=f2e501]:
+                    - paragraph [ref=f2e502]:
+                      - link "더씨앤엠" [ref=f2e503] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e504]: 26.06.24
+                  - generic [ref=f2e505]:
+                    - generic [ref=f2e507]:
+                      - term [ref=f2e508]:
+                        - link [ref=f2e509] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e511]:
+                        - link [ref=f2e512] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e514]:
+                        - link [ref=f2e515] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27160
+                    - paragraph [ref=f2e517]: 16,212
+              - listitem [ref=f2e518]:
+                - generic [ref=f2e519]:
+                  - generic [ref=f2e520]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27163
+                      - img [ref=f2e521] [cursor=pointer]
+                  - generic [ref=f2e522]:
+                    - paragraph [ref=f2e523]:
+                      - link "현대트랜시스" [ref=f2e524] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e525]: 26.06.23
+                  - generic [ref=f2e526]:
+                    - generic [ref=f2e528]:
+                      - term [ref=f2e529]:
+                        - link [ref=f2e530] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e532]:
+                        - link [ref=f2e533] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e535]:
+                        - link [ref=f2e536] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27163
+                    - paragraph [ref=f2e538]: 11,879
+              - listitem [ref=f2e539]:
+                - generic [ref=f2e540]:
+                  - generic [ref=f2e541]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27158
+                      - img [ref=f2e542] [cursor=pointer]
+                  - generic [ref=f2e543]:
+                    - paragraph [ref=f2e544]:
+                      - link "나니아랩스" [ref=f2e545] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e546]: 26.06.23
+                  - generic [ref=f2e547]:
+                    - generic [ref=f2e549]:
+                      - term [ref=f2e550]:
+                        - link [ref=f2e551] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e553]:
+                        - link [ref=f2e554] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e556]:
+                        - link [ref=f2e557] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27158
+                    - paragraph [ref=f2e559]: 13,261
+              - listitem [ref=f2e560]:
+                - generic [ref=f2e561]:
+                  - generic [ref=f2e562]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27149
+                      - img [ref=f2e563] [cursor=pointer]
+                  - generic [ref=f2e564]:
+                    - paragraph [ref=f2e565]:
+                      - link "도루코" [ref=f2e566] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e567]: 26.06.22
+                  - generic [ref=f2e568]:
+                    - generic [ref=f2e570]:
+                      - term [ref=f2e571]:
+                        - link [ref=f2e572] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e574]:
+                        - link [ref=f2e575] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e577]:
+                        - link [ref=f2e578] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27149
+                    - paragraph [ref=f2e580]: 13,009
+              - listitem [ref=f2e581]:
+                - generic [ref=f2e582]:
+                  - generic [ref=f2e583]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27150
+                      - img [ref=f2e584] [cursor=pointer]
+                  - generic [ref=f2e585]:
+                    - paragraph [ref=f2e586]:
+                      - link "아이파킹" [ref=f2e587] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e588]: 26.06.19
+                  - generic [ref=f2e589]:
+                    - generic [ref=f2e591]:
+                      - term [ref=f2e592]:
+                        - link [ref=f2e593] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e595]:
+                        - link [ref=f2e596] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e598]:
+                        - link [ref=f2e599] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27150
+                    - paragraph [ref=f2e601]: 17,926
+              - listitem [ref=f2e602]:
+                - generic [ref=f2e603]:
+                  - generic [ref=f2e604]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27128
+                      - img [ref=f2e605] [cursor=pointer]
+                  - generic [ref=f2e606]:
+                    - paragraph [ref=f2e607]:
+                      - link "대웅바이오" [ref=f2e608] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e609]: 26.06.18
+                  - generic [ref=f2e610]:
+                    - generic [ref=f2e612]:
+                      - term [ref=f2e613]:
+                        - link [ref=f2e614] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e616]:
+                        - link [ref=f2e617] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e619]:
+                        - link [ref=f2e620] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27128
+                    - paragraph [ref=f2e622]: 23,204
+              - listitem [ref=f2e623]:
+                - generic [ref=f2e624]:
+                  - generic [ref=f2e625]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27119
+                      - img [ref=f2e626] [cursor=pointer]
+                  - generic [ref=f2e627]:
+                    - paragraph [ref=f2e628]:
+                      - link "우리은행 소개" [ref=f2e629] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e630]: 26.06.11
+                  - generic [ref=f2e631]:
+                    - generic [ref=f2e633]:
+                      - term [ref=f2e634]:
+                        - link [ref=f2e635] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e637]:
+                        - link [ref=f2e638] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e640]:
+                        - link [ref=f2e641] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27119
+                    - paragraph [ref=f2e643]: 23,257
+              - listitem [ref=f2e644]:
+                - generic [ref=f2e645]:
+                  - generic [ref=f2e646]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27108
+                      - img [ref=f2e647] [cursor=pointer]
+                  - generic [ref=f2e648]:
+                    - paragraph [ref=f2e649]:
+                      - link "잇다소프트" [ref=f2e650] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e651]: 26.06.09
+                  - generic [ref=f2e652]:
+                    - generic [ref=f2e654]:
+                      - term [ref=f2e655]:
+                        - link [ref=f2e656] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e658]:
+                        - link [ref=f2e659] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e661]:
+                        - link [ref=f2e662] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27108
+                    - paragraph [ref=f2e664]: 24,488
+              - listitem [ref=f2e665]:
+                - generic [ref=f2e666]:
+                  - generic [ref=f2e667]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27105
+                      - img [ref=f2e668] [cursor=pointer]
+                  - generic [ref=f2e669]:
+                    - paragraph [ref=f2e670]:
+                      - link "코나비즈" [ref=f2e671] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e672]: 26.06.09
+                  - generic [ref=f2e673]:
+                    - generic [ref=f2e675]:
+                      - term [ref=f2e676]:
+                        - link [ref=f2e677] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e679]:
+                        - link [ref=f2e680] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e682]:
+                        - link [ref=f2e683] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27105
+                    - paragraph [ref=f2e685]: 28,228
+              - listitem [ref=f2e686]:
+                - generic [ref=f2e687]:
+                  - generic [ref=f2e688]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27103
+                      - img [ref=f2e689] [cursor=pointer]
+                  - generic [ref=f2e690]:
+                    - paragraph [ref=f2e691]:
+                      - link "현대얼터너티브" [ref=f2e692] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e693]: 26.06.08
+                  - generic [ref=f2e694]:
+                    - generic [ref=f2e696]:
+                      - term [ref=f2e697]:
+                        - link [ref=f2e698] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e700]:
+                        - link [ref=f2e701] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e703]:
+                        - link [ref=f2e704] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27103
+                    - paragraph [ref=f2e706]: 18,757
+              - listitem [ref=f2e707]:
+                - generic [ref=f2e708]:
+                  - generic [ref=f2e709]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27082
+                      - img [ref=f2e710] [cursor=pointer]
+                  - generic [ref=f2e711]:
+                    - paragraph [ref=f2e712]:
+                      - link "이노컴즈" [ref=f2e713] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e714]: 26.06.04
+                  - generic [ref=f2e715]:
+                    - generic [ref=f2e717]:
+                      - term [ref=f2e718]:
+                        - link [ref=f2e719] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e721]:
+                        - link [ref=f2e722] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e724]:
+                        - link [ref=f2e725] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27082
+                    - paragraph [ref=f2e727]: 20,690
+              - listitem [ref=f2e728]:
+                - generic [ref=f2e729]:
+                  - generic [ref=f2e730]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27065
+                      - img [ref=f2e731] [cursor=pointer]
+                  - generic [ref=f2e732]:
+                    - paragraph [ref=f2e733]:
+                      - link "에비스맥주" [ref=f2e734] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e735]: 26.05.28
+                  - generic [ref=f2e736]:
+                    - generic [ref=f2e738]:
+                      - term [ref=f2e739]:
+                        - link [ref=f2e740] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e742]:
+                        - link [ref=f2e743] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e745]:
+                        - link [ref=f2e746] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27065
+                    - paragraph [ref=f2e748]: 15,362
+              - listitem [ref=f2e749]:
+                - generic [ref=f2e750]:
+                  - generic [ref=f2e751]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27064
+                      - img [ref=f2e752] [cursor=pointer]
+                  - generic [ref=f2e753]:
+                    - paragraph [ref=f2e754]:
+                      - link "서로커뮤니케이션" [ref=f2e755] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e756]: 26.05.28
+                  - generic [ref=f2e757]:
+                    - generic [ref=f2e759]:
+                      - term [ref=f2e760]:
+                        - link [ref=f2e761] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e763]:
+                        - link [ref=f2e764] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e766]:
+                        - link [ref=f2e767] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27064
+                    - paragraph [ref=f2e769]: 25,044
+              - listitem [ref=f2e770]:
+                - generic [ref=f2e771]:
+                  - generic [ref=f2e772]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27048
+                      - img [ref=f2e773] [cursor=pointer]
+                  - generic [ref=f2e774]:
+                    - paragraph [ref=f2e775]:
+                      - link "비쥬얼스토리" [ref=f2e776] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e777]: 26.05.26
+                  - generic [ref=f2e778]:
+                    - generic [ref=f2e780]:
+                      - term [ref=f2e781]:
+                        - link [ref=f2e782] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e784]:
+                        - link [ref=f2e785] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e787]:
+                        - link [ref=f2e788] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27048
+                    - paragraph [ref=f2e790]: 15,749
+              - listitem [ref=f2e791]:
+                - generic [ref=f2e792]:
+                  - generic [ref=f2e793]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27040
+                      - img [ref=f2e794] [cursor=pointer]
+                  - generic [ref=f2e795]:
+                    - paragraph [ref=f2e796]:
+                      - link "브레인올" [ref=f2e797] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e798]: 26.05.21
+                  - generic [ref=f2e799]:
+                    - generic [ref=f2e801]:
+                      - term [ref=f2e802]:
+                        - link [ref=f2e803] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e805]:
+                        - link [ref=f2e806] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e808]:
+                        - link [ref=f2e809] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27040
+                    - paragraph [ref=f2e811]: 34,232
+              - listitem [ref=f2e812]:
+                - generic [ref=f2e813]:
+                  - generic [ref=f2e814]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27011
+                      - img [ref=f2e815] [cursor=pointer]
+                  - generic [ref=f2e816]:
+                    - paragraph [ref=f2e817]:
+                      - link "스낵스" [ref=f2e818] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e819]: 26.05.15
+                  - generic [ref=f2e820]:
+                    - generic [ref=f2e822]:
+                      - term [ref=f2e823]:
+                        - link [ref=f2e824] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e826]:
+                        - link [ref=f2e827] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e829]:
+                        - link [ref=f2e830] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27011
+                    - paragraph [ref=f2e832]: 23,438
+              - listitem [ref=f2e833]:
+                - generic [ref=f2e834]:
+                  - generic [ref=f2e835]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27005
+                      - img [ref=f2e836] [cursor=pointer]
+                  - generic [ref=f2e837]:
+                    - paragraph [ref=f2e838]:
+                      - link "HM그룹" [ref=f2e839] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e840]: 26.05.14
+                  - generic [ref=f2e841]:
+                    - generic [ref=f2e843]:
+                      - term [ref=f2e844]:
+                        - link [ref=f2e845] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e847]:
+                        - link [ref=f2e848] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e850]:
+                        - link [ref=f2e851] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=27005
+                    - paragraph [ref=f2e853]: 23,151
+              - listitem [ref=f2e854]:
+                - generic [ref=f2e855]:
+                  - generic [ref=f2e856]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26984
+                      - img [ref=f2e857] [cursor=pointer]
+                  - generic [ref=f2e858]:
+                    - paragraph [ref=f2e859]:
+                      - link "멜로우앤코" [ref=f2e860] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e861]: 26.05.08
+                  - generic [ref=f2e862]:
+                    - generic [ref=f2e864]:
+                      - term [ref=f2e865]:
+                        - link [ref=f2e866] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e868]:
+                        - link [ref=f2e869] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e871]:
+                        - link [ref=f2e872] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26984
+                    - paragraph [ref=f2e874]: 20,151
+              - listitem [ref=f2e875]:
+                - generic [ref=f2e876]:
+                  - generic [ref=f2e877]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26947
+                      - img [ref=f2e878] [cursor=pointer]
+                  - generic [ref=f2e879]:
+                    - paragraph [ref=f2e880]:
+                      - link "안성인삼농협 명삼원" [ref=f2e881] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e882]: 26.05.06
+                  - generic [ref=f2e883]:
+                    - generic [ref=f2e885]:
+                      - term [ref=f2e886]:
+                        - link [ref=f2e887] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e889]:
+                        - link [ref=f2e890] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e892]:
+                        - link [ref=f2e893] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26947
+                    - paragraph [ref=f2e895]: 25,451
+              - listitem [ref=f2e896]:
+                - generic [ref=f2e897]:
+                  - generic [ref=f2e898]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26935
+                      - img [ref=f2e899] [cursor=pointer]
+                  - generic [ref=f2e900]:
+                    - paragraph [ref=f2e901]:
+                      - link "픽케어" [ref=f2e902] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e903]: 26.04.30
+                  - generic [ref=f2e904]:
+                    - generic [ref=f2e906]:
+                      - term [ref=f2e907]:
+                        - link [ref=f2e908] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e910]:
+                        - link [ref=f2e911] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e913]:
+                        - link [ref=f2e914] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26935
+                    - paragraph [ref=f2e916]: 29,475
+              - listitem [ref=f2e917]:
+                - generic [ref=f2e918]:
+                  - generic [ref=f2e919]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26938
+                      - img [ref=f2e920] [cursor=pointer]
+                  - generic [ref=f2e921]:
+                    - paragraph [ref=f2e922]:
+                      - link "SP삼화 100년 동행 뮤지엄 사이트" [ref=f2e923] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e924]: 26.04.29
+                  - generic [ref=f2e925]:
+                    - generic [ref=f2e927]:
+                      - term [ref=f2e928]:
+                        - link [ref=f2e929] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e931]:
+                        - link [ref=f2e932] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e934]:
+                        - link [ref=f2e935] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26938
+                    - paragraph [ref=f2e937]: 15,105
+              - listitem [ref=f2e938]:
+                - generic [ref=f2e939]:
+                  - generic [ref=f2e940]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26939
+                      - img [ref=f2e941] [cursor=pointer]
+                  - generic [ref=f2e942]:
+                    - paragraph [ref=f2e943]:
+                      - link "그린카" [ref=f2e944] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e945]: 26.04.28
+                  - generic [ref=f2e946]:
+                    - generic [ref=f2e948]:
+                      - term [ref=f2e949]:
+                        - link [ref=f2e950] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e952]:
+                        - link [ref=f2e953] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e955]:
+                        - link [ref=f2e956] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26939
+                    - paragraph [ref=f2e958]: 22,302
+              - listitem [ref=f2e959]:
+                - generic [ref=f2e960]:
+                  - generic [ref=f2e961]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26895
+                      - img [ref=f2e962] [cursor=pointer]
+                  - generic [ref=f2e963]:
+                    - paragraph [ref=f2e964]:
+                      - link "법무법인 목헌" [ref=f2e965] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e966]: 26.04.27
+                  - generic [ref=f2e967]:
+                    - generic [ref=f2e969]:
+                      - term [ref=f2e970]:
+                        - link [ref=f2e971] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e973]:
+                        - link [ref=f2e974] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e976]:
+                        - link [ref=f2e977] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26895
+                    - paragraph [ref=f2e979]: 27,585
+              - listitem [ref=f2e980]:
+                - generic [ref=f2e981]:
+                  - generic [ref=f2e982]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26886
+                      - img [ref=f2e983] [cursor=pointer]
+                  - generic [ref=f2e984]:
+                    - paragraph [ref=f2e985]:
+                      - link "에이스인벤터" [ref=f2e986] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e987]: 26.04.27
+                  - generic [ref=f2e988]:
+                    - generic [ref=f2e990]:
+                      - term [ref=f2e991]:
+                        - link [ref=f2e992] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e994]:
+                        - link [ref=f2e995] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e997]:
+                        - link [ref=f2e998] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26886
+                    - paragraph [ref=f2e1000]: 13,209
+              - listitem [ref=f2e1001]:
+                - generic [ref=f2e1002]:
+                  - generic [ref=f2e1003]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26901
+                      - img [ref=f2e1004] [cursor=pointer]
+                  - generic [ref=f2e1005]:
+                    - paragraph [ref=f2e1006]:
+                      - link "HD현대마린솔루션테크" [ref=f2e1007] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1008]: 26.04.27
+                  - generic [ref=f2e1009]:
+                    - generic [ref=f2e1011]:
+                      - term [ref=f2e1012]:
+                        - link [ref=f2e1013] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1015]:
+                        - link [ref=f2e1016] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1018]:
+                        - link [ref=f2e1019] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26901
+                    - paragraph [ref=f2e1021]: 27,977
+              - listitem [ref=f2e1022]:
+                - generic [ref=f2e1023]:
+                  - generic [ref=f2e1024]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26899
+                      - img [ref=f2e1025] [cursor=pointer]
+                  - generic [ref=f2e1026]:
+                    - paragraph [ref=f2e1027]:
+                      - link "HD현대마린솔루션" [ref=f2e1028] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1029]: 26.04.24
+                  - generic [ref=f2e1030]:
+                    - generic [ref=f2e1032]:
+                      - term [ref=f2e1033]:
+                        - link [ref=f2e1034] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1036]:
+                        - link [ref=f2e1037] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1039]:
+                        - link [ref=f2e1040] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26899
+                    - paragraph [ref=f2e1042]: 20,845
+              - listitem [ref=f2e1043]:
+                - generic [ref=f2e1044]:
+                  - generic [ref=f2e1045]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26903
+                      - img [ref=f2e1046] [cursor=pointer]
+                  - generic [ref=f2e1047]:
+                    - paragraph [ref=f2e1048]:
+                      - link "위메이드" [ref=f2e1049] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1050]: 26.04.23
+                  - generic [ref=f2e1051]:
+                    - generic [ref=f2e1053]:
+                      - term [ref=f2e1054]:
+                        - link [ref=f2e1055] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1057]:
+                        - link [ref=f2e1058] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1060]:
+                        - link [ref=f2e1061] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26903
+                    - paragraph [ref=f2e1063]: 12,572
+              - listitem [ref=f2e1064]:
+                - generic [ref=f2e1065]:
+                  - generic [ref=f2e1066]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26890
+                      - img [ref=f2e1067] [cursor=pointer]
+                  - generic [ref=f2e1068]:
+                    - paragraph [ref=f2e1069]:
+                      - link "에센태스크코리아" [ref=f2e1070] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1071]: 26.04.23
+                  - generic [ref=f2e1072]:
+                    - generic [ref=f2e1074]:
+                      - term [ref=f2e1075]:
+                        - link [ref=f2e1076] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1078]:
+                        - link [ref=f2e1079] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1081]:
+                        - link [ref=f2e1082] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26890
+                    - paragraph [ref=f2e1084]: 17,253
+              - listitem [ref=f2e1085]:
+                - generic [ref=f2e1086]:
+                  - generic [ref=f2e1087]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26891
+                      - img [ref=f2e1088] [cursor=pointer]
+                  - generic [ref=f2e1089]:
+                    - paragraph [ref=f2e1090]:
+                      - link "Dalmore" [ref=f2e1091] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1092]: 26.04.23
+                  - generic [ref=f2e1093]:
+                    - generic [ref=f2e1095]:
+                      - term [ref=f2e1096]:
+                        - link [ref=f2e1097] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1099]:
+                        - link [ref=f2e1100] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1102]:
+                        - link [ref=f2e1103] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26891
+                    - paragraph [ref=f2e1105]: 12,794
+              - listitem [ref=f2e1106]:
+                - generic [ref=f2e1107]:
+                  - generic [ref=f2e1108]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26882
+                      - img [ref=f2e1109] [cursor=pointer]
+                  - generic [ref=f2e1110]:
+                    - paragraph [ref=f2e1111]:
+                      - link "플랜아이" [ref=f2e1112] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1113]: 26.04.22
+                  - generic [ref=f2e1114]:
+                    - generic [ref=f2e1116]:
+                      - term [ref=f2e1117]:
+                        - link [ref=f2e1118] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1120]:
+                        - link [ref=f2e1121] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1123]:
+                        - link [ref=f2e1124] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26882
+                    - paragraph [ref=f2e1126]: 36,686
+              - listitem [ref=f2e1127]:
+                - generic [ref=f2e1128]:
+                  - generic [ref=f2e1129]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26854
+                      - img [ref=f2e1130] [cursor=pointer]
+                  - generic [ref=f2e1131]:
+                    - paragraph [ref=f2e1132]:
+                      - link "원텍" [ref=f2e1133] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1134]: 26.04.15
+                  - generic [ref=f2e1135]:
+                    - generic [ref=f2e1137]:
+                      - term [ref=f2e1138]:
+                        - link [ref=f2e1139] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1141]:
+                        - link [ref=f2e1142] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1144]:
+                        - link [ref=f2e1145] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26854
+                    - paragraph [ref=f2e1147]: 25,693
+              - listitem [ref=f2e1148]:
+                - generic [ref=f2e1149]:
+                  - generic [ref=f2e1150]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26848
+                      - img [ref=f2e1151] [cursor=pointer]
+                  - generic [ref=f2e1152]:
+                    - paragraph [ref=f2e1153]:
+                      - link "대한사료" [ref=f2e1154] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1155]: 26.04.13
+                  - generic [ref=f2e1156]:
+                    - generic [ref=f2e1158]:
+                      - term [ref=f2e1159]:
+                        - link [ref=f2e1160] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1162]:
+                        - link [ref=f2e1163] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1165]:
+                        - link [ref=f2e1166] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26848
+                    - paragraph [ref=f2e1168]: 31,659
+              - listitem [ref=f2e1169]:
+                - generic [ref=f2e1170]:
+                  - generic [ref=f2e1171]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26820
+                      - img [ref=f2e1172] [cursor=pointer]
+                  - generic [ref=f2e1173]:
+                    - paragraph [ref=f2e1174]:
+                      - link "GS아트센터" [ref=f2e1175] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1176]: 26.04.13
+                  - generic [ref=f2e1177]:
+                    - generic [ref=f2e1179]:
+                      - term [ref=f2e1180]:
+                        - link [ref=f2e1181] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1183]:
+                        - link [ref=f2e1184] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1186]:
+                        - link [ref=f2e1187] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26820
+                    - paragraph [ref=f2e1189]: 30,365
+              - listitem [ref=f2e1190]:
+                - generic [ref=f2e1191]:
+                  - generic [ref=f2e1192]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26844
+                      - img [ref=f2e1193] [cursor=pointer]
+                  - generic [ref=f2e1194]:
+                    - paragraph [ref=f2e1195]:
+                      - link "핀텔" [ref=f2e1196] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1197]: 26.04.10
+                  - generic [ref=f2e1198]:
+                    - generic [ref=f2e1200]:
+                      - term [ref=f2e1201]:
+                        - link [ref=f2e1202] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1204]:
+                        - link [ref=f2e1205] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1207]:
+                        - link [ref=f2e1208] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26844
+                    - paragraph [ref=f2e1210]: 37,836
+              - listitem [ref=f2e1211]:
+                - generic [ref=f2e1212]:
+                  - generic [ref=f2e1213]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26811
+                      - img [ref=f2e1214] [cursor=pointer]
+                  - generic [ref=f2e1215]:
+                    - paragraph [ref=f2e1216]:
+                      - link "아이콘플래닝" [ref=f2e1217] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1218]: 26.04.08
+                  - generic [ref=f2e1219]:
+                    - generic [ref=f2e1221]:
+                      - term [ref=f2e1222]:
+                        - link [ref=f2e1223] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1225]:
+                        - link [ref=f2e1226] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1228]:
+                        - link [ref=f2e1229] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26811
+                    - paragraph [ref=f2e1231]: 17,708
+              - listitem [ref=f2e1232]:
+                - generic [ref=f2e1233]:
+                  - generic [ref=f2e1234]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26789
+                      - img [ref=f2e1235] [cursor=pointer]
+                  - generic [ref=f2e1236]:
+                    - paragraph [ref=f2e1237]:
+                      - link "VIKOONE" [ref=f2e1238] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1239]: 26.04.02
+                  - generic [ref=f2e1240]:
+                    - generic [ref=f2e1242]:
+                      - term [ref=f2e1243]:
+                        - link [ref=f2e1244] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1246]:
+                        - link [ref=f2e1247] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1249]:
+                        - link [ref=f2e1250] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26789
+                    - paragraph [ref=f2e1252]: 33,051
+              - listitem [ref=f2e1253]:
+                - generic [ref=f2e1254]:
+                  - generic [ref=f2e1255]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26765
+                      - img [ref=f2e1256] [cursor=pointer]
+                  - generic [ref=f2e1257]:
+                    - paragraph [ref=f2e1258]:
+                      - link "플랜티엠" [ref=f2e1259] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1260]: 26.04.01
+                  - generic [ref=f2e1261]:
+                    - generic [ref=f2e1263]:
+                      - term [ref=f2e1264]:
+                        - link [ref=f2e1265] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1267]:
+                        - link [ref=f2e1268] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1270]:
+                        - link [ref=f2e1271] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26765
+                    - paragraph [ref=f2e1273]: 26,412
+              - listitem [ref=f2e1274]:
+                - generic [ref=f2e1275]:
+                  - generic [ref=f2e1276]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26778
+                      - img [ref=f2e1277] [cursor=pointer]
+                  - generic [ref=f2e1278]:
+                    - paragraph [ref=f2e1279]:
+                      - link "한화에너지" [ref=f2e1280] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1281]: 26.03.31
+                  - generic [ref=f2e1282]:
+                    - generic [ref=f2e1284]:
+                      - term [ref=f2e1285]:
+                        - link [ref=f2e1286] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1288]:
+                        - link [ref=f2e1289] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1291]:
+                        - link [ref=f2e1292] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26778
+                    - paragraph [ref=f2e1294]: 25,514
+              - listitem [ref=f2e1295]:
+                - generic [ref=f2e1296]:
+                  - generic [ref=f2e1297]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26742
+                      - img [ref=f2e1298] [cursor=pointer]
+                  - generic [ref=f2e1299]:
+                    - paragraph [ref=f2e1300]:
+                      - link "리모" [ref=f2e1301] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1302]: 26.03.27
+                  - generic [ref=f2e1303]:
+                    - generic [ref=f2e1305]:
+                      - term [ref=f2e1306]:
+                        - link [ref=f2e1307] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1309]:
+                        - link [ref=f2e1310] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1312]:
+                        - link [ref=f2e1313] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26742
+                    - paragraph [ref=f2e1315]: 37,509
+              - listitem [ref=f2e1316]:
+                - generic [ref=f2e1317]:
+                  - generic [ref=f2e1318]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26774
+                      - img [ref=f2e1319] [cursor=pointer]
+                  - generic [ref=f2e1320]:
+                    - paragraph [ref=f2e1321]:
+                      - link "HDC홀딩스" [ref=f2e1322] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1323]: 26.03.27
+                  - generic [ref=f2e1324]:
+                    - generic [ref=f2e1326]:
+                      - term [ref=f2e1327]:
+                        - link [ref=f2e1328] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1330]:
+                        - link [ref=f2e1331] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1333]:
+                        - link [ref=f2e1334] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26774
+                    - paragraph [ref=f2e1336]: 26,525
+              - listitem [ref=f2e1337]:
+                - generic [ref=f2e1338]:
+                  - generic [ref=f2e1339]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26760
+                      - img [ref=f2e1340] [cursor=pointer]
+                  - generic [ref=f2e1341]:
+                    - paragraph [ref=f2e1342]:
+                      - link "대동기어(주)" [ref=f2e1343] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1344]: 26.03.27
+                  - generic [ref=f2e1345]:
+                    - generic [ref=f2e1347]:
+                      - term [ref=f2e1348]:
+                        - link [ref=f2e1349] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1351]:
+                        - link [ref=f2e1352] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1354]:
+                        - link [ref=f2e1355] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26760
+                    - paragraph [ref=f2e1357]: 25,986
+              - listitem [ref=f2e1358]:
+                - generic [ref=f2e1359]:
+                  - generic [ref=f2e1360]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26735
+                      - img [ref=f2e1361] [cursor=pointer]
+                  - generic [ref=f2e1362]:
+                    - paragraph [ref=f2e1363]:
+                      - link "니프코코리아" [ref=f2e1364] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1365]: 26.03.27
+                  - generic [ref=f2e1366]:
+                    - generic [ref=f2e1368]:
+                      - term [ref=f2e1369]:
+                        - link [ref=f2e1370] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1372]:
+                        - link [ref=f2e1373] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1375]:
+                        - link [ref=f2e1376] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26735
+                    - paragraph [ref=f2e1378]: 25,859
+              - listitem [ref=f2e1379]:
+                - generic [ref=f2e1380]:
+                  - generic [ref=f2e1381]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26731
+                      - img [ref=f2e1382] [cursor=pointer]
+                  - generic [ref=f2e1383]:
+                    - paragraph [ref=f2e1384]:
+                      - link "동아쏘시오롤딩스" [ref=f2e1385] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1386]: 26.03.23
+                  - generic [ref=f2e1387]:
+                    - generic [ref=f2e1389]:
+                      - term [ref=f2e1390]:
+                        - link [ref=f2e1391] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1393]:
+                        - link [ref=f2e1394] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1396]:
+                        - link [ref=f2e1397] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26731
+                    - paragraph [ref=f2e1399]: 95,306
+              - listitem [ref=f2e1400]:
+                - generic [ref=f2e1401]:
+                  - generic [ref=f2e1402]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26728
+                      - img [ref=f2e1403] [cursor=pointer]
+                  - generic [ref=f2e1404]:
+                    - paragraph [ref=f2e1405]:
+                      - link "와커스 글로벌" [ref=f2e1406] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1407]: 26.03.23
+                  - generic [ref=f2e1408]:
+                    - generic [ref=f2e1410]:
+                      - term [ref=f2e1411]:
+                        - link [ref=f2e1412] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1414]:
+                        - link [ref=f2e1415] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1417]:
+                        - link [ref=f2e1418] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26728
+                    - paragraph [ref=f2e1420]: 19,170
+              - listitem [ref=f2e1421]:
+                - generic [ref=f2e1422]:
+                  - generic [ref=f2e1423]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26725
+                      - img [ref=f2e1424] [cursor=pointer]
+                  - generic [ref=f2e1425]:
+                    - paragraph [ref=f2e1426]:
+                      - link "와커스" [ref=f2e1427] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1428]: 26.03.19
+                  - generic [ref=f2e1429]:
+                    - generic [ref=f2e1431]:
+                      - term [ref=f2e1432]:
+                        - link [ref=f2e1433] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1435]:
+                        - link [ref=f2e1436] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1438]:
+                        - link [ref=f2e1439] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26725
+                    - paragraph [ref=f2e1441]: 19,618
+              - listitem [ref=f2e1442]:
+                - generic [ref=f2e1443]:
+                  - generic [ref=f2e1444]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26719
+                      - img [ref=f2e1445] [cursor=pointer]
+                  - generic [ref=f2e1446]:
+                    - paragraph [ref=f2e1447]:
+                      - link "넥스트에어로스페이스" [ref=f2e1448] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1449]: 26.03.18
+                  - generic [ref=f2e1450]:
+                    - generic [ref=f2e1452]:
+                      - term [ref=f2e1453]:
+                        - link [ref=f2e1454] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1456]:
+                        - link [ref=f2e1457] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1459]:
+                        - link [ref=f2e1460] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26719
+                    - paragraph [ref=f2e1462]: 28,527
+              - listitem [ref=f2e1463]:
+                - generic [ref=f2e1464]:
+                  - generic [ref=f2e1465]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26689
+                      - img [ref=f2e1466] [cursor=pointer]
+                  - generic [ref=f2e1467]:
+                    - paragraph [ref=f2e1468]:
+                      - link "지엠컴" [ref=f2e1469] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1470]: 26.03.12
+                  - generic [ref=f2e1471]:
+                    - generic [ref=f2e1473]:
+                      - term [ref=f2e1474]:
+                        - link [ref=f2e1475] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1477]:
+                        - link [ref=f2e1478] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1480]:
+                        - link [ref=f2e1481] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26689
+                    - paragraph [ref=f2e1483]: 21,442
+              - listitem [ref=f2e1484]:
+                - generic [ref=f2e1485]:
+                  - generic [ref=f2e1486]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26690
+                      - img [ref=f2e1487] [cursor=pointer]
+                  - generic [ref=f2e1488]:
+                    - paragraph [ref=f2e1489]:
+                      - link "매스티지" [ref=f2e1490] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1491]: 26.03.12
+                  - generic [ref=f2e1492]:
+                    - generic [ref=f2e1494]:
+                      - term [ref=f2e1495]:
+                        - link [ref=f2e1496] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1498]:
+                        - link [ref=f2e1499] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1501]:
+                        - link [ref=f2e1502] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26690
+                    - paragraph [ref=f2e1504]: 27,934
+              - listitem [ref=f2e1505]:
+                - generic [ref=f2e1506]:
+                  - generic [ref=f2e1507]:
+                    - link:
+                      - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26686
+                      - img [ref=f2e1508] [cursor=pointer]
+                  - generic [ref=f2e1509]:
+                    - paragraph [ref=f2e1510]:
+                      - link "MOTZ" [ref=f2e1511] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                    - paragraph [ref=f2e1512]: 26.03.11
+                  - generic [ref=f2e1513]:
+                    - generic [ref=f2e1515]:
+                      - term [ref=f2e1516]:
+                        - link [ref=f2e1517] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1519]:
+                        - link [ref=f2e1520] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=f2e1522]:
+                        - link [ref=f2e1523] [cursor=pointer]:
+                          - /url: ./view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=26686
+                    - paragraph [ref=f2e1525]: 15,756
+            - list [ref=f2e1527]:
+              - listitem [ref=f2e1528]:
+                - link "1" [ref=f2e1529] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=f2e1530]:
+                - link "2" [ref=f2e1531] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=2
+              - listitem [ref=f2e1532]:
+                - link "3" [ref=f2e1533] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=3
+              - listitem [ref=f2e1534]:
+                - link "4" [ref=f2e1535] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=4
+              - listitem [ref=f2e1536]:
+                - link "5" [ref=f2e1537] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=5
+              - listitem [ref=f2e1538]:
+                - link "6" [ref=f2e1539] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=6
+              - listitem [ref=f2e1540]:
+                - link "7" [ref=f2e1541] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=7
+              - listitem [ref=f2e1542]:
+                - link "8" [ref=f2e1543] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=8
+              - listitem [ref=f2e1544]:
+                - link "9" [ref=f2e1545] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=9
+              - listitem [ref=f2e1546]:
+                - link "10" [ref=f2e1547] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=10
+              - listitem [ref=f2e1548]:
+                - link "...41" [ref=f2e1549] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=41
+              - listitem [ref=f2e1550]:
+                - link "▶" [ref=f2e1551] [cursor=pointer]:
+                  - /url: list.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=022710001&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=2
+        - generic [ref=f2e1552]:
+          - generic [ref=f2e1553]: 기업소개 포트폴리오 많은 에이전시
+          - generic [ref=f2e1554]:
+            - generic [ref=f2e1556] [cursor=pointer]:
+              - generic [ref=f2e1557]:
+                - heading "웹모아" [level=1] [ref=f2e1558]
+                - generic [ref=f2e1559]: 고객의 성공과 함께 성장하는 기업
+              - link [ref=f2e1561]:
+                - /url: portfolio.asp?Txt_agnumber=164
+                - paragraph [ref=f2e1562]: 포트폴리오 보러가기
+            - generic [ref=f2e1564] [cursor=pointer]:
+              - generic [ref=f2e1565]:
+                - heading "유엘디자인" [level=1] [ref=f2e1566]
+                - generic [ref=f2e1567]: Better than expected! 유엘디자인에게는 한계가 없습니다.
+                - generic [ref=f2e1568]: 반응형 WEB구축, 차별화 디자인 및 모션, UX/UI 기획 디자인, 브랜드매니지먼트 등
+              - link [ref=f2e1570]:
+                - /url: portfolio.asp?Txt_agnumber=210
+                - paragraph [ref=f2e1571]: 포트폴리오 보러가기
+            - generic [ref=f2e1573] [cursor=pointer]:
+              - generic [ref=f2e1574]:
+                - heading "이프론트" [level=1] [ref=f2e1575]
+                - generic [ref=f2e1576]: 이프론트는 국내외 IT / COMMERCE 에서 24년간 확고한 자리매김을 하고 있습니다
+                - generic [ref=f2e1577]: UI/UX, EXPERINENCE, WEBSITE, HOMEPAGE
+              - link [ref=f2e1579]:
+                - /url: portfolio.asp?Txt_agnumber=387
+                - paragraph [ref=f2e1580]: 포트폴리오 보러가기
+        - generic [ref=f2e1581]:
+          - generic [ref=f2e1583] [cursor=pointer]:
+            - generic [ref=f2e1584]:
+              - heading "리메인레이어" [level=1] [ref=f2e1585]
+              - generic [ref=f2e1586]: 유수의 프로젝트의 경험으로 Creative Insight를 선사합니다.
+            - link [ref=f2e1588]:
+              - /url: portfolio.asp?Txt_agnumber=724
+              - paragraph [ref=f2e1589]: 포트폴리오 보러가기
+          - generic [ref=f2e1591] [cursor=pointer]:
+            - generic [ref=f2e1592]:
+              - heading "인더엑스" [level=1] [ref=f2e1593]
+              - generic [ref=f2e1594]: 새로운 아이디어를 발견하고 끊임없이 도전합니다.
+            - link [ref=f2e1596]:
+              - /url: portfolio.asp?Txt_agnumber=696
+              - paragraph [ref=f2e1597]: 포트폴리오 보러가기
+          - generic [ref=f2e1599] [cursor=pointer]:
+            - generic [ref=f2e1600]:
+              - heading "유엘디자인" [level=1] [ref=f2e1601]
+              - generic [ref=f2e1602]: Better than expected! 유엘디자인에게는 한계가 없습니다.
+              - generic [ref=f2e1603]: 반응형 WEB구축, 차별화 디자인 및 모션, UX/UI 기획 디자인, 브랜드매니지먼트 등
+            - link [ref=f2e1605]:
+              - /url: portfolio.asp?Txt_agnumber=210
+              - paragraph [ref=f2e1606]: 포트폴리오 보러가기
+          - generic [ref=f2e1608] [cursor=pointer]:
+            - generic [ref=f2e1609]:
+              - heading "매스티지" [level=1] [ref=f2e1610]
+              - generic [ref=f2e1611]: 백 마디 말보다 차원이 다른 결과로 증명하겠습니다.
+              - generic [ref=f2e1612]: 각분야 최고의 전문가들이 모여 20년간 증명한 프리미엄 홈페이지 제작회사
+            - link [ref=f2e1614]:
+              - /url: portfolio.asp?Txt_agnumber=89
+              - paragraph [ref=f2e1615]: 포트폴리오 보러가기
+          - generic [ref=f2e1617] [cursor=pointer]:
+            - generic [ref=f2e1618]:
+              - heading "(주)비쥬얼스토리" [level=1] [ref=f2e1619]
+              - generic [ref=f2e1620]: 브랜드를 경험으로, 경험을 이야기로, 우리는 브랜드의 내일을 만듭니다.
+              - generic [ref=f2e1621]: 비즈니스를 이해하고 브랜드와 디지털 자산을 구축
+            - link [ref=f2e1623]:
+              - /url: portfolio.asp?Txt_agnumber=119
+              - paragraph [ref=f2e1624]: 포트폴리오 보러가기
+          - generic [ref=f2e1626] [cursor=pointer]:
+            - generic [ref=f2e1627]:
+              - heading "상공(상식적인 사람들의 공간)" [level=1] [ref=f2e1628]
+              - generic [ref=f2e1629]: 상식적인 사람들의 공간 (주)상공
+              - generic [ref=f2e1630]: 홈페이지 , 쇼핑몰, 앱 서비스 , ERP, LMS , CRM, 디자인, 플랫폼 개발
+            - link [ref=f2e1632]:
+              - /url: portfolio.asp?Txt_agnumber=122
+              - paragraph [ref=f2e1633]: 포트폴리오 보러가기
+          - generic [ref=f2e1635] [cursor=pointer]:
+            - generic [ref=f2e1636]:
+              - heading "삼백씨비티" [level=1] [ref=f2e1637]
+              - generic [ref=f2e1638]: 쇼피파이(Shopify) 를 이용한 글로벌 스토어 구축 전문 에이전시 Since 2017
+              - generic [ref=f2e1639]: 글로벌 스토어(D2C) 구축 및 마케팅, 유지보수, 운영 지원
+            - link [ref=f2e1641]:
+              - /url: portfolio.asp?Txt_agnumber=860
+              - paragraph [ref=f2e1642]: 포트폴리오 보러가기
+          - generic [ref=f2e1644] [cursor=pointer]:
+            - generic [ref=f2e1645]:
+              - heading "브이더블유" [level=1] [ref=f2e1646]
+              - generic [ref=f2e1647]: 마음속의 원더랜드. V˚WONDERLAND EXTENSION
+              - generic [ref=f2e1648]: 브랜드아이덴티티 및 전략기획, 크리에이티브 디자인, 디지털 사이트 및 모바일 서비스 제작, 광고대행
+            - link [ref=f2e1650]:
+              - /url: portfolio.asp?Txt_agnumber=113
+              - paragraph [ref=f2e1651]: 포트폴리오 보러가기
+      - generic [ref=f2e1653]:
+        - generic [ref=f2e1654]:
+          - generic [ref=f2e1655]:
+            - generic [ref=f2e1656]: 공지사항
+            - list [ref=f2e1657]:
+              - listitem [ref=f2e1662]:
+                - link [ref=f2e1664] [cursor=pointer]:
+                  - /url: /boad/bd_news/1/egoread.asp?bd=1&seq=1743
+                  - paragraph [ref=f2e1665]: BEST 선정작 점수 변경 공지합니다.
+                - generic [ref=f2e1666]: 2026.04.10
+          - list [ref=f2e1668]:
+            - listitem [ref=f2e1669]:
+              - link "배너문의" [ref=f2e1670] [cursor=pointer]:
+                - /url: /sub/inquery.asp?int_gubun=2
+            - listitem [ref=f2e1671]:
+              - link "제휴문의" [ref=f2e1672] [cursor=pointer]:
+                - /url: /sub/inquery.asp?int_gubun=3
+        - generic [ref=f2e1673]:
+          - generic [ref=f2e1674]:
+            - list [ref=f2e1675]:
+              - listitem [ref=f2e1676]:
+                - link "제휴문의" [ref=f2e1677] [cursor=pointer]:
+                  - /url: /sub/inquery.asp?int_gubun=3
+              - listitem [ref=f2e1678]:
+                - link "이용약관" [ref=f2e1679] [cursor=pointer]:
+                  - /url: /sub/agreement.asp
+              - listitem [ref=f2e1680]:
+                - link "개인정보처리방침" [ref=f2e1681] [cursor=pointer]:
+                  - /url: /sub/privacy.asp
+              - listitem [ref=f2e1682]:
+                - link "공지사항" [ref=f2e1683] [cursor=pointer]:
+                  - /url: /boad/bd_news/1/egolist.asp?bd=1
+            - generic [ref=f2e1684]:
+              - paragraph [ref=f2e1685]: 굿디자인웹(GDWEB) | contact@gdweb.co.kr | TEL.031-994-1250 | 등록번호 263-16-01300
+              - paragraph [ref=f2e1686]: GDWEB All rights reserved
+          - link [ref=f2e1688] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - generic [ref=f2e1690]: FAMILY SITE

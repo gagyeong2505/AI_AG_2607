@@ -1,0 +1,241 @@
+Airbnb 기업 조사 보고서
+(조사일: 2026-08-18 / 조사관 에이전트 작성 / 공인 자료만 활용)
+
+===============================================================
+1. 개요
+===============================================================
+Airbnb, Inc.는 2008년 미국 샌프란시스코에서 설립된 온라인 숙박·여행
+플랫폼 기업으로, 개인이 보유한 숙소(및 호텔·체험·서비스)를 여행자와
+연결해주는 마켓플레이스 모델을 운영한다. 2020년 12월 나스닥(Nasdaq)에
+상장했으며(티커: ABNB), 2025 회계연도 기준 매출 122억 달러, 순이익
+약 25.1억 달러를 기록했다. 2026년에는 AI 기능, 호텔·렌터카 등 서비스
+카테고리 확장을 통해 '여행 슈퍼앱'으로 전환을 추진 중이다.
+
+===============================================================
+2. 기업 개요
+===============================================================
+- 설립 연도: 2008년 8월 (아이디어 착안은 2007년 10월)
+  출처: Wikipedia - Airbnb (https://en.wikipedia.org/wiki/Airbnb)
+
+- 창업자: 브라이언 체스키(Brian Chesky), 조 게비아(Joe Gebbia),
+  네이선 블레차르지크(Nathan Blecharczyk)
+  출처: Wikipedia - Airbnb
+
+- 본사: 미국 캘리포니아주 샌프란시스코 (888 Brannan Street)
+  출처: Wikipedia - Airbnb
+
+- 원래 사명: AirBed & Breakfast (Airbedandbreakfast.com)
+  → 2009년 3월 'Airbnb.com'으로 축약
+  출처: Wikipedia - Airbnb
+
+- 사업모델: 개인 숙소(및 호텔·독립 부티크 호텔), 체험(Experiences),
+  여행 관련 서비스(렌터카, 공항픽업, 식료품 배달, 짐 보관 등)를
+  중개하고 예약 건별 수수료를 취하는 온라인 마켓플레이스
+  출처: Wikipedia - Airbnb; news.airbnb.com - 2026 Summer Release
+  (https://news.airbnb.com/airbnb-2026-summer-release/)
+
+- CEO: 브라이언 체스키 (공동창업자 겸 CEO/이사회 의장)
+  출처: Wikipedia - Airbnb
+
+- 상장 여부: 상장 (나스닥, 티커 ABNB), S&P 500·Nasdaq-100 편입 종목
+  출처: Wikipedia - Airbnb
+
+===============================================================
+3. 주요 연혁 (타임라인)
+===============================================================
+※ 다수 사실은 Wikipedia 문서(en.wikipedia.org/wiki/Airbnb)에 근거하며,
+  상장·실적 관련 항목은 공식 IR·SEC 공시로 교차 확인함.
+
+- 2007년 10월: 브라이언 체스키·조 게비아가 샌프란시스코 자택에
+  에어매트리스를 놓고 숙박객을 받으며 사업 구상
+- 2008년 2월: 네이선 블레차르지크가 공동창업자(초기 CTO)로 합류
+- 2008년 8월 11일: 'Airbedandbreakfast.com' 정식 출시
+- 2009년 1월: 스타트업 액셀러레이터 Y Combinator 참여, 2만 달러 투자 유치
+- 2009년 3월: 사명을 'Airbnb.com'으로 단축
+- 2011년: 런던에 첫 해외 지사 설립, 이후 파리·베를린 등 유럽 도시로 확장
+- 2016년: '체험(Experiences)' 기능 출시; 인종차별 논란 이후 前 법무장관
+  에릭 홀더 영입해 반차별 정책 수립
+- 2020년 5월: 코로나19로 인한 예약 급감으로 전 직원의 약 25%
+  (약 1,900명) 감원
+- 2020년 12월 10일: 나스닥 상장(IPO), 공모가 주당 68달러,
+  약 35억 달러 조달
+  출처: Airbnb 투자자 관계(IR) 공식 발표
+  (https://investors.airbnb.com/press-releases/news-details/2020/
+  Airbnb-Announces-Pricing-of-Initial-Public-Offering/default.aspx)
+- 2022년 3월: 러시아·벨라루스 사업 중단(우크라이나 침공에 따른 제재)
+- 2022년 5월: 중국 내 자체 숙박 사업(현지 리스팅) 철수
+- 2022년 6월: 파티·행사 목적 숙소 이용 영구 금지 정책 시행
+- 2023년 11월: AI 스타트업 GamePlanner.AI 인수
+- 2025년 6월: FIFA 클럽 월드컵 및 2026 FIFA 월드컵 공식 파트너십
+  (3년) 체결
+  출처: news.airbnb.com(한국어) (https://news.airbnb.com/ko/fifapartnership/)
+- 2026년 5월: 앱에 독립·부티크 호텔, 렌터카 등 신규 카테고리 추가 발표
+- 2026년 여름(8월): 'AI 여행 슈퍼앱' 지향 대규모 업데이트
+  ('2026 Summer Release') 발표
+  출처: news.airbnb.com (https://news.airbnb.com/airbnb-2026-summer-release/)
+
+===============================================================
+4. 재무/실적 개요
+===============================================================
+[4-1. 상장 정보]
+2020년 12월 10일 나스닥 상장, 클래스 A 보통주 약 5,200만 주를
+주당 68달러에 매각해 약 35억 달러 조달. 상장 첫날 종가는 공모가
+대비 크게 상승.
+출처: Airbnb 투자자 관계 - IPO 가격 결정 발표; Wikipedia - Airbnb
+
+[4-2. 연간 실적 추이] (Wikipedia 정리 + SEC 10-K(FY2025) 공시 교차 확인)
+
+연도    매출          순이익               비고
+2021    약 59억 달러   순손실 3.52억 달러   직원 6,132명
+2023    약 99억 달러   약 48억 달러         직원 6,907명
+2024    약 111억 달러  약 26.5억 달러       직원 7,300명
+2025    약 122억 달러  약 25.1~25.2억 달러  직원 8,200명; 총자산 222억 달러
+        (전년 대비 +10%) (전년 대비 -5%)
+
+출처: Wikipedia - Airbnb (2021~2025 수치 정리),
+Airbnb Form 10-K(FY2025), SEC 공시
+(https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/
+abnb-20251231.htm)
+
+※ 2025년 순이익 감소는 인건비 및 마케팅비 증가, 이자수익 감소가
+  주된 원인으로 SEC 10-K에 명시됨.
+
+[4-3. 2025년 4분기 및 2026년 최근 분기 실적] (공식 발표 기준)
+
+- 2025년 4분기: 매출 27.8억 달러(전년 동기 대비 +12%), 총예약가치
+  (GBV) 204억 달러(+16%, 2년여 만의 최고 성장률), 숙박·좌석 예약
+  건수(Nights and Seats Booked) +10%
+  출처: news.airbnb.com - Q4 2025 Financial Results
+  (https://news.airbnb.com/airbnb-q4-2025-financial-results/);
+  Airbnb IR - Q4 및 연간 실적 발표
+  (https://investors.airbnb.com/press-releases/news-details/2026/
+  Airbnb-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx)
+
+- 2025년 연간 GBV: 약 913억 달러(전년 대비 +12%) - SEC 10-K(FY2025) 공시
+
+- 2026년 1분기: 매출 26.8억 달러
+  출처: news.airbnb.com - Q1 2026 Financial Results
+  (https://news.airbnb.com/airbnb-q1-2026-financial-results/);
+  SEC Form 8-K(FY2026) 공시
+
+- 2026년 2분기: 매출 36.1억 달러(전년 동기 대비 +16.5%)
+  출처: SEC Form 8-K(FY2026) 공시
+
+- 2026년 연간 가이던스: 매출 성장률 전망을 '중두 자릿수(mid-teens)'
+  이상으로 상향, 조정 EBITDA 마진 35.5% 이상 전망
+  출처: SEC Form 8-K 공시(2026년 2·8월), news.airbnb.com 분기 실적 발표 페이지
+
+※ 참고: 2025년 4분기 매출·GBV 세부 수치는 news.airbnb.com/
+  investors.airbnb.com 공식 발표를 1차 출처로 하며, 동일 수치가
+  Reuters 등 통신사 인용 보도에서도 재확인됨.
+
+===============================================================
+5. 사업 규모
+===============================================================
+- Wikipedia는 "전 세계 220개 이상의 국가·지역에서 800만 건 이상의
+  리스팅"으로 소개(인용 시점 기준)
+  출처: Wikipedia - Airbnb
+
+- Airbnb 공식 소개 페이지(news.airbnb.com/about-us)에는 "800만 건
+  이상의 활성 리스팅, 15만 개 이상의 도시·타운, 240개 이상의
+  국가·지역", "500만 명 이상의 호스트, 누적 게스트 방문 25억 건
+  이상", "호스트 누적 수익 3,000억 달러 이상" 등의 수치가 게재되어
+  있음(검색을 통해 확인, 자동화된 직접 접속은 접근 제한(HTTP 403)으로
+  실패)
+  출처: news.airbnb.com - About Us (https://news.airbnb.com/about-us/)
+  (내용은 검색 결과를 통해 간접 확인)
+
+※ 수치 불일치 주의: 국가·지역 수(220여 개 vs 240여 개)와 리스팅
+  관련 세부 수치는 출처(Wikipedia 인용 시점 vs Airbnb 공식 페이지
+  최신 게시 시점)에 따라 다르게 나타남. 회사소개 페이지 제작 시에는
+  news.airbnb.com/about-us 최신 게시본을 직접 확인해 최종 수치를
+  채택하는 것을 권장.
+
+- 2025년 매출의 지역별 비중(SEC 10-K/Wikipedia 종합):
+  북미 42.45%(약 52억 달러), 유럽·중동·아프리카(EMEA) 38.63%
+  (약 47.3억 달러), 아시아태평양 9.48%(약 11.6억 달러),
+  중남미 9.4%(약 11.6억 달러)
+  출처: Wikipedia - Airbnb, Airbnb Form 10-K(FY2025)
+
+===============================================================
+6. 최신 동향 (2026년 기준)
+===============================================================
+1) '여행 슈퍼앱' 전환 - 2026 Summer Release (2026년 8월 발표)
+   - 독립·부티크 호텔 예약 기능 추가(뉴욕·파리·런던·로마 등 주요 도시)
+   - 렌터카, 공항 픽업, 식료품 배달, 짐 보관 등 신규 서비스 카테고리 도입
+   - AI 기반 후기 요약, 숙소 비교, 공유 일정표(그룹 여행 계획) 기능 출시
+   출처: news.airbnb.com - 2026 Summer Release
+   (https://news.airbnb.com/airbnb-2026-summer-release/)
+
+2) AI 기반 제품 개발 가속화
+   - 2026년 상반기(1~6월) 기준 신규 코드의 약 60%가 AI와 공동
+     작성되었으며, 이는 업계 평균의 약 2배 수준으로 알려짐
+     (회사 발표 기준)
+   - 같은 기간 동안 인력 규모를 거의 그대로 유지하면서 전년 동기
+     대비 약 80% 더 많은 기능·개선사항을 출시했다고 발표
+   출처: news.airbnb.com 관련 발표(검색 결과 기준, 원문 접근은
+   접근 제한으로 실패했으나 다수 언론 재인용으로 교차 확인)
+
+3) FIFA 월드컵 파트너십
+   - 2025년 6월 FIFA 클럽월드컵 및 2026 FIFA 월드컵(2026년 6~7월,
+     미국·캐나다·멕시코 공동 개최) 공식 파트너로 3년 계약 체결,
+     개최 6개 도시에서 공식 숙박 경험 제공을 약속
+   - (2026년 8월 현재 시점 기준으로는 해당 월드컵 본선이 이미
+     종료된 상태)
+   출처: news.airbnb.com(한국어) - FIFA 파트너십
+   (https://news.airbnb.com/ko/fifapartnership/)
+
+4) 실적 호조 및 가이던스 상향
+   - 2026년 2분기 매출 36.1억 달러(전년 동기 대비 +16.5%)로 시장
+     예상치를 상회했으며, 회사는 연간 매출 성장률 전망을
+     '중두 자릿수 이상'으로 상향 조정
+   출처: SEC Form 8-K(FY2026) 공시 자료
+
+5) 경영진 관련 이슈
+   - 공동창업자 조 게비아가 2025년 2월 미국 정부효율부(DOGE)에
+     합류한 것으로 알려지며 일부 불매운동 요구가 제기됨
+   출처: Wikipedia - Airbnb
+
+===============================================================
+7. 참고자료 목록
+===============================================================
+[공식/1차 출처]
+- Airbnb 투자자 관계(IR) - Q4 및 2025 연간 실적 발표:
+  https://investors.airbnb.com/press-releases/news-details/2026/
+  Airbnb-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx
+- Airbnb 투자자 관계(IR) - IPO 가격 결정 발표(2020):
+  https://investors.airbnb.com/press-releases/news-details/2020/
+  Airbnb-Announces-Pricing-of-Initial-Public-Offering/default.aspx
+- news.airbnb.com - Q4 2025 Financial Results:
+  https://news.airbnb.com/airbnb-q4-2025-financial-results/
+- news.airbnb.com - Q1 2026 Financial Results:
+  https://news.airbnb.com/airbnb-q1-2026-financial-results/
+- news.airbnb.com - 2026 Summer Release:
+  https://news.airbnb.com/airbnb-2026-summer-release/
+- news.airbnb.com(한국어) - FIFA 파트너십 발표:
+  https://news.airbnb.com/ko/fifapartnership/
+- news.airbnb.com - About Us(회사소개, 검색 결과로 간접 확인,
+  직접 접속 실패): https://news.airbnb.com/about-us/
+- Airbnb, Inc. Form 10-K (FY2025), SEC EDGAR:
+  https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/
+  abnb-20251231.htm
+- Airbnb, Inc. Form 8-K (FY2026, 실적 관련 첨부자료), SEC EDGAR:
+  https://www.sec.gov/Archives/edgar/data/0001559720/000119312526211816/
+  d23351dex991.htm
+  https://www.sec.gov/Archives/edgar/data/0001559720/000119312526337928/
+  d70413dex991.htm
+
+[백과사전]
+- Wikipedia - Airbnb: https://en.wikipedia.org/wiki/Airbnb
+
+===============================================================
+조사 시 유의사항 (제작 참고용)
+===============================================================
+news.airbnb.com 및 sec.gov 원문 페이지는 자동화된 직접 접속
+(WebFetch)이 차단(HTTP 403)되어, 검색 엔진을 통한 간접 확인
+방식으로 내용을 교차 검증했습니다. 회사소개 페이지에 최종적으로
+반영할 정확한 수치(리스팅 수, 국가/도시 수 등)는 담당자가
+news.airbnb.com/about-us 및 investors.airbnb.com을 브라우저로
+직접 열어 최신 게시본 원문을 재확인하는 것을 권장합니다.
+국가·지역 수 등 세부 수치는 출처별로 다소 차이가 있어
+(220여 개 vs 240여 개) 보고서 내 해당 부분에 명시했습니다.
